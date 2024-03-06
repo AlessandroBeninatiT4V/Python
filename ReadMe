@@ -1,2 +1,7 @@
 .\env\Scripts\activate
     to activate the env with all libraries 
+
+git add .
+git commit -m "Update data file"
+git push origin main
+    to update the teh gir repo with a message 
