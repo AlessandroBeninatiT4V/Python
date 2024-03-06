@@ -28,7 +28,7 @@ product_df = pd.DataFrame(product_data)
 customer_data = {
     'CustomerID': range(1, 21),
     'CustomerName': [f'Customer {i}' for i in range(1, 21)],
-    'Location': [random.choice(['New York', 'California', 'Texas', 'Florida', 'Illinois']) for _ in range(20)]
+    'Location': [random.choice(['Sicilia', 'Liguria', 'Lombardia', 'Sardegna', 'Marche']) for _ in range(20)]
 }
 customer_df = pd.DataFrame(customer_data)
 
