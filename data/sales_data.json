@@ -1,0 +1,1502 @@
+[
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 4226408.762384083
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 3803755.6742802137
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 4355532.618609007
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 2266712.4085461195
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 4133194.454291427
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 1145883.755023113
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 492871.6224401748
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 2525967.3173902542
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 2572118.2506879326
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 4446708.989755014
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 2201999.369606689
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 941612.1352485656
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 1041477.9948461747
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 4317402.473992963
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 4628828.058455673
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 1740607.0223308352
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 641744.5252587112
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 3243229.113440665
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 2245523.692977503
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 346228.05886720226
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 269342.62226336426
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 2770146.704783071
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 1208514.3093280024
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 4533867.168116006
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 4583748.559690441
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 2690023.1349229002
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4693813.0497560315
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 4280341.149148964
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 3401134.641800486
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 2527482.6576248906
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 4535561.793782098
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 4318401.369986415
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 1560313.5924125316
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 3786867.063434915
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 4707781.591867381
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 878652.4024953254
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 2463538.2225973364
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 222159.59180285252
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 4330518.749302744
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 932615.7774232314
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 2440110.919855006
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 3401066.2755700876
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 1201530.9000038162
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 1639361.3459812903
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 2456992.635165369
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 4526519.117564837
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 4757178.888072587
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 679518.3828491694
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 2563443.615201311
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 4069935.6877631275
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 4648893.226836697
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 1801369.5034782118
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 4708410.6098988075
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 367960.10847826034
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 520682.2510782929
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 228288.0488116776
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 1813965.7748086862
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 4650895.930732156
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 2733511.8075720277
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 4532222.7976484
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 2426955.6977507374
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 1155980.0185273595
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 3112691.932159623
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 3633119.7904391093
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 3898670.5937978807
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 1823121.0178429282
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 176765.89796869096
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 4117834.7232861854
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 2024666.430560115
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 3895872.2003544657
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 2453506.3130543255
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 3810808.721531842
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 1002849.0029234729
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 4864406.364285329
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 2794393.1661432334
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 3316279.6249698354
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 3655304.7011521915
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 2421094.024793279
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 4300524.005779129
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 3654575.0801595654
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 3210906.699298427
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 4031837.3284984967
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 4652080.756415259
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 3625278.780445826
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 3631043.3234484014
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 1023435.994430561
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 2012393.3309249408
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 2187325.018846325
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 1109456.2665255968
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 275425.8182603071
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 672573.0479684846
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 4035191.6338037625
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 1928502.20556591
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 4564892.960886899
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 4496827.935360345
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 3028609.0415629316
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 3508327.111173068
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 618492.8209619084
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 1791518.276686608
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 3470246.083557149
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 1765675.563242182
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 795825.4754627529
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 2713022.4175722827
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 1514558.5347788597
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 4903827.540987032
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 4392302.98427938
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 3295092.643067555
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 219448.5286744134
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 2406886.179640369
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 1441935.2273446869
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 4135267.8001730554
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 155162.4203485258
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 443010.3252855663
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 3031380.7826718376
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 1942329.3849117488
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 1808984.6638097817
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4951101.194052562
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 3632938.63006518
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 4553640.303860435
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 173719.3167151809
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 3065022.0792689174
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 2847426.1270547556
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 3011957.9385209396
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 1419340.0709580155
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 2707219.9502880736
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 4586898.986682678
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 2168795.125478613
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 3155720.3539759554
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 1026741.2746987208
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 4897842.816393671
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 2398975.9419891033
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 2431097.317293524
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 721598.620569761
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 3091795.6690389845
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 2078524.6905875995
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 1504991.7652055745
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 1372241.6632942127
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 4694889.650243901
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 2778556.697826206
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 2968856.091843042
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 3778676.5616258075
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 3000042.8554760907
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 1899533.198708551
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 3227099.3949809163
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 3950100.209272548
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 1910049.4841755766
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4785397.47936295
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 1535601.9628536215
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 3596572.9876725036
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 2310081.1184732514
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 3694639.1223241165
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 2850924.8873880445
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 3074048.5098093366
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 1319636.7575775944
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 3164867.2459445675
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 2620385.878097004
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 3211137.036896425
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 4523433.7520085545
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 4832998.720271242
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 2273438.4467208157
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 2040493.1707338174
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 2255193.4328532
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 4968655.747043237
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 2572182.513536184
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 4296428.807224944
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 1241597.749854425
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 1494098.8869244135
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 899498.847226131
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 3857430.277049955
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 2703714.456778351
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 202275.77065966418
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 1827242.7969341432
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 1526166.5715195888
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 2461530.46147747
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 1912518.3116090575
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 3517932.936270414
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4315024.975300234
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 820525.5742479847
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 1971180.0952699145
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 217488.50967549928
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 2228010.285472409
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 3096942.3749067388
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 1997156.468571324
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 4043554.3473916734
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 2695370.67838069
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 864304.0902639219
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 2630094.0669573555
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 2333025.1213062573
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 4626290.5016191155
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 1146334.036542123
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 3916559.712160091
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 3558066.369905627
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 2154744.0365507687
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 3653588.2918182705
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 293800.8781847096
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 3791811.1007876205
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 312222.5212215417
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 1385694.2603976047
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 171679.3132273685
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 150261.83954085485
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 4779587.795659515
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 1771946.0903314133
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 2601484.3339245147
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 3495899.8964183596
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 2624470.2931056237
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 4177585.87699864
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 2066082.1411496755
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 2826104.992469428
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 2343294.4973182585
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 1285264.924108679
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 3642800.3676870177
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 440841.0631780573
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 1767804.842508605
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 2165818.685185004
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 1093993.9748419693
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 3388674.84977876
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 4199836.925975042
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 4395911.762836053
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 3854434.586343204
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 140795.56858000823
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 1571270.1978061777
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 1691830.760519413
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 1379689.460753496
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 134287.82378244968
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 1868851.7042563823
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 4713403.813458815
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 2253841.5546338065
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 1765121.816879817
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 3751649.511062463
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 3895777.7688468634
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 3721385.9892424694
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 4136645.139014854
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 2997945.6207333654
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 2557140.331020219
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 653292.3921907723
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 3096824.7025040467
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 2923135.812150053
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 3109865.074697199
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 123194.46438138948
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 3270016.798227634
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 4699732.282010027
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 1358161.3280357006
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 3034410.671519479
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 3286373.950626425
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 3669819.27847616
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 3213336.142536214
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 4236854.562212062
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 2739834.4961682823
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 4514861.5327403275
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 923538.88899055
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 249010.1313573021
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 3204894.7561122566
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 2587856.870920596
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 1316474.6854790924
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 3668699.0444256095
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 4508537.393065812
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 1100236.4238258363
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 4081722.7740921737
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 470153.0608621486
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 374658.16106324963
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 4166853.5400363808
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 2889407.0847645537
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 3835619.5685368828
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 683606.6285691585
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 4943766.922216821
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 2723084.0055618095
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4354817.883192637
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 4012849.493686217
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 2001352.4764749405
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 3365116.797310311
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Channel Partners",
+        "Sales": 1229666.217841799
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Enterprise",
+        "Sales": 965396.7008852114
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Government",
+        "Sales": 1083557.7859488493
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Midmarket",
+        "Sales": 4533653.067494402
+    },
+    {
+        "Product": "Ambarilla",
+        "Segment": "Small Business",
+        "Sales": 3716001.629823453
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Channel Partners",
+        "Sales": 978664.0751067431
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Enterprise",
+        "Sales": 4349603.086620167
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Government",
+        "Sales": 1234253.498251152
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Midmarket",
+        "Sales": 2089076.3518147876
+    },
+    {
+        "Product": "Carrera",
+        "Segment": "Small Business",
+        "Sales": 2108209.109386557
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Channel Partners",
+        "Sales": 112097.65543972931
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Enterprise",
+        "Sales": 2807939.6486914856
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Government",
+        "Sales": 2422840.920514887
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Midmarket",
+        "Sales": 4006886.7537513063
+    },
+    {
+        "Product": "Montana",
+        "Segment": "Small Business",
+        "Sales": 1257228.2902233659
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Channel Partners",
+        "Sales": 1237267.299283454
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Enterprise",
+        "Sales": 929052.4665263453
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Government",
+        "Sales": 4151625.560943688
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Midmarket",
+        "Sales": 202753.48207569745
+    },
+    {
+        "Product": "Paseo",
+        "Segment": "Small Business",
+        "Sales": 2905446.231231335
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Channel Partners",
+        "Sales": 1199198.9424838412
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Enterprise",
+        "Sales": 645084.103252807
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Government",
+        "Sales": 4130496.1759594637
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Midmarket",
+        "Sales": 679152.5904159688
+    },
+    {
+        "Product": "Velo",
+        "Segment": "Small Business",
+        "Sales": 3546046.1382360486
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Channel Partners",
+        "Sales": 2815328.5525571825
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Enterprise",
+        "Sales": 4823752.073874879
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Government",
+        "Sales": 1360719.0852624513
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Midmarket",
+        "Sales": 3853253.8335079104
+    },
+    {
+        "Product": "VTT",
+        "Segment": "Small Business",
+        "Sales": 2803494.477791818
+    }
+]
