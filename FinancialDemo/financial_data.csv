@@ -1,1001 +1,1001 @@
-Country,Region,City,Financial_Year,Amount
-Country A,Region 2,City Z,2022,82974.62
-Country B,Region 2,City X,2020,71061.5
-Country B,Region 1,City Z,2022,95898.96
-Country A,Region 3,City Z,2020,91469.81
-Country A,Region 3,City Z,2022,22029.91
-Country A,Region 1,City Z,2020,13825.42
-Country C,Region 1,City Z,2022,88520.34
-Country B,Region 3,City Y,2018,49452.54
-Country C,Region 3,City X,2020,25364.13
-Country B,Region 2,City X,2019,48089.94
-Country A,Region 1,City Z,2018,28036.67
-Country B,Region 3,City Y,2020,89881.43
-Country C,Region 2,City Z,2022,21179.23
-Country C,Region 3,City X,2021,61828.26
-Country C,Region 2,City Y,2020,62640.47
-Country A,Region 1,City Y,2020,18616.8
-Country C,Region 1,City Z,2019,98492.34
-Country B,Region 2,City X,2019,13460.7
-Country A,Region 2,City Y,2021,31740.52
-Country A,Region 2,City Y,2021,53185.53
-Country B,Region 3,City X,2019,42541.05
-Country A,Region 2,City X,2018,93341.16
-Country C,Region 1,City Z,2022,62389.8
-Country A,Region 3,City X,2019,75186.7
-Country A,Region 3,City Y,2019,84231.97
-Country C,Region 2,City Z,2021,62985.76
-Country C,Region 3,City Y,2021,36449.52
-Country C,Region 2,City X,2022,80775.9
-Country B,Region 1,City Z,2022,31637.62
-Country A,Region 3,City Z,2020,94787.82
-Country A,Region 1,City Z,2020,74612.47
-Country B,Region 2,City Y,2019,11498.14
-Country B,Region 1,City Z,2021,87238.12
-Country B,Region 1,City Y,2019,16052.05
-Country A,Region 3,City X,2022,50944.72
-Country C,Region 3,City Y,2020,69588.93
-Country A,Region 2,City X,2019,74107.86
-Country A,Region 2,City Y,2021,31762.21
-Country A,Region 2,City Z,2019,96213.42
-Country B,Region 2,City X,2019,14413.51
-Country A,Region 3,City X,2021,69935.02
-Country C,Region 2,City X,2021,11246.3
-Country B,Region 1,City X,2020,74090.16
-Country B,Region 3,City Y,2021,43225.96
-Country B,Region 1,City Z,2022,41152.67
-Country A,Region 2,City X,2022,95297.45
-Country A,Region 3,City Z,2018,89989.22
-Country A,Region 2,City Y,2020,24790.67
-Country B,Region 2,City Z,2019,81294.77
-Country C,Region 3,City Y,2019,84279.9
-Country B,Region 3,City Z,2021,68022.38
-Country A,Region 3,City X,2022,81421.02
-Country C,Region 2,City Y,2020,11091.12
-Country C,Region 1,City Y,2021,79299.22
-Country C,Region 1,City X,2021,97455.59
-Country B,Region 1,City Z,2020,45856.31
-Country A,Region 1,City Y,2022,21015.91
-Country C,Region 1,City Z,2022,93644.5
-Country C,Region 1,City Y,2021,14065.38
-Country B,Region 1,City Z,2021,64774.5
-Country B,Region 2,City Z,2021,38782.33
-Country C,Region 3,City X,2021,94115.91
-Country C,Region 1,City Z,2018,23765.55
-Country A,Region 1,City X,2020,70049.86
-Country B,Region 1,City Y,2018,58777.81
-Country A,Region 2,City X,2018,37203.37
-Country C,Region 3,City X,2022,94966.9
-Country C,Region 1,City Y,2018,45121.92
-Country C,Region 1,City Z,2020,87750.86
-Country B,Region 1,City X,2022,31624.38
-Country C,Region 3,City Y,2020,13548.13
-Country A,Region 3,City X,2018,31325.96
-Country C,Region 3,City X,2019,98997.62
-Country C,Region 2,City X,2022,90905.22
-Country A,Region 2,City Z,2021,68886.19
-Country C,Region 1,City Z,2021,63173.48
-Country C,Region 2,City Y,2018,41925.09
-Country A,Region 1,City Y,2021,53561.06
-Country C,Region 1,City X,2021,24387.71
-Country A,Region 2,City X,2019,12920.18
-Country C,Region 1,City Z,2019,56139.38
-Country B,Region 1,City Y,2021,44811.22
-Country C,Region 1,City X,2019,24850.42
-Country B,Region 3,City Y,2018,83056.69
-Country A,Region 3,City Y,2019,49782.07
-Country C,Region 1,City Z,2018,95557.34
-Country B,Region 1,City X,2020,28681.14
-Country A,Region 1,City X,2018,58848.12
-Country B,Region 1,City Z,2020,79949.86
-Country C,Region 3,City Y,2022,75952.82
-Country C,Region 1,City Y,2020,94026.23
-Country C,Region 3,City X,2021,84368.42
-Country A,Region 2,City Y,2020,33764.31
-Country C,Region 1,City Y,2021,20743.09
-Country C,Region 2,City X,2018,47931.24
-Country B,Region 1,City X,2022,84411.77
-Country A,Region 3,City Z,2020,65201.37
-Country A,Region 3,City X,2020,85588.34
-Country C,Region 1,City Z,2021,82105.15
-Country A,Region 1,City Y,2020,69259.25
-Country B,Region 3,City X,2021,42591.6
-Country A,Region 1,City Z,2019,33513.33
-Country A,Region 3,City Z,2018,45282.24
-Country B,Region 2,City Y,2020,20020.58
-Country C,Region 2,City Z,2018,27349.18
-Country C,Region 2,City X,2022,38372.3
-Country C,Region 1,City X,2021,21151.04
-Country B,Region 2,City Z,2019,75379.08
-Country C,Region 1,City Z,2018,43000.25
-Country C,Region 1,City Z,2018,72968.69
-Country B,Region 2,City Y,2020,46773.35
-Country B,Region 3,City Y,2019,34254.82
-Country B,Region 2,City X,2020,89301.39
-Country B,Region 3,City Z,2022,91335.67
-Country A,Region 1,City Z,2018,97990.94
-Country A,Region 1,City Y,2020,99768.09
-Country C,Region 1,City Z,2018,16060.47
-Country B,Region 2,City Z,2021,38936.18
-Country B,Region 2,City Z,2021,63910.45
-Country A,Region 3,City Y,2019,85786.76
-Country B,Region 2,City Y,2018,79099.4
-Country C,Region 2,City X,2021,26135.76
-Country B,Region 3,City Z,2021,34240.1
-Country A,Region 1,City Y,2020,34033.71
-Country B,Region 2,City Z,2018,18887.8
-Country A,Region 3,City Y,2019,33210.97
-Country C,Region 1,City Y,2020,51508.69
-Country B,Region 2,City Z,2021,59725.34
-Country B,Region 3,City Y,2018,21650.37
-Country B,Region 1,City Z,2020,42515.56
-Country B,Region 3,City X,2019,63945.39
-Country A,Region 2,City Y,2020,73256.09
-Country A,Region 3,City Z,2021,80455.64
-Country B,Region 3,City X,2020,84320.11
-Country C,Region 3,City Z,2020,58697.31
-Country A,Region 1,City Z,2021,67298.33
-Country B,Region 3,City Y,2019,62393.95
-Country C,Region 3,City Y,2022,65353.78
-Country A,Region 2,City Y,2021,64674.12
-Country B,Region 1,City Y,2022,62356.34
-Country B,Region 2,City Y,2021,96855.42
-Country A,Region 3,City X,2018,26051.8
-Country A,Region 1,City X,2022,94051.42
-Country C,Region 3,City Y,2020,38891.99
-Country A,Region 1,City Z,2019,37579.17
-Country B,Region 3,City X,2022,97596.01
-Country B,Region 3,City Y,2018,66441.24
-Country A,Region 1,City Z,2022,86175.13
-Country A,Region 3,City X,2018,25959.91
-Country B,Region 3,City Y,2021,39257.49
-Country A,Region 2,City Z,2021,33367.9
-Country C,Region 1,City Y,2018,11638.54
-Country A,Region 2,City Y,2020,32488.0
-Country B,Region 2,City Y,2022,96059.3
-Country B,Region 3,City Y,2019,29053.51
-Country C,Region 2,City Z,2019,78894.99
-Country A,Region 1,City Y,2019,60219.33
-Country A,Region 1,City Z,2019,39262.8
-Country B,Region 2,City Y,2018,68806.0
-Country B,Region 1,City Y,2019,39590.08
-Country B,Region 1,City Y,2021,25700.98
-Country B,Region 1,City Z,2021,65467.27
-Country C,Region 1,City Z,2022,16029.24
-Country A,Region 1,City X,2021,35469.19
-Country A,Region 1,City Y,2022,49074.73
-Country C,Region 2,City Z,2022,24563.36
-Country B,Region 1,City Z,2020,30413.21
-Country B,Region 1,City Y,2022,54825.58
-Country B,Region 3,City Z,2018,13323.94
-Country C,Region 1,City Z,2020,54308.88
-Country B,Region 1,City Z,2018,79434.17
-Country B,Region 3,City X,2019,94823.39
-Country C,Region 1,City Y,2018,31698.18
-Country A,Region 2,City Z,2020,85628.18
-Country C,Region 2,City Z,2022,55510.86
-Country B,Region 2,City X,2018,10527.68
-Country B,Region 1,City Y,2019,99512.58
-Country A,Region 3,City Y,2021,60370.1
-Country C,Region 2,City Z,2022,92017.39
-Country C,Region 3,City Y,2019,93520.93
-Country C,Region 1,City Z,2022,85733.4
-Country B,Region 1,City X,2018,33777.44
-Country B,Region 2,City Z,2020,46572.47
-Country B,Region 2,City X,2020,49353.54
-Country A,Region 2,City Y,2022,37443.58
-Country C,Region 3,City Y,2021,58420.88
-Country C,Region 2,City Z,2019,70773.22
-Country B,Region 1,City Y,2018,69008.07
-Country B,Region 3,City X,2019,16771.59
-Country A,Region 1,City Z,2020,94015.14
-Country A,Region 1,City X,2020,19310.39
-Country A,Region 2,City Y,2021,14689.4
-Country B,Region 2,City Y,2018,99289.78
-Country A,Region 3,City Z,2020,13458.94
-Country C,Region 3,City Y,2018,33329.12
-Country A,Region 1,City X,2022,94418.83
-Country B,Region 3,City X,2021,84282.21
-Country A,Region 3,City X,2022,35236.6
-Country C,Region 2,City Y,2018,95870.3
-Country C,Region 3,City Z,2021,19577.38
-Country A,Region 1,City Y,2021,79528.75
-Country C,Region 2,City Y,2018,59979.3
-Country C,Region 1,City Z,2021,48093.92
-Country B,Region 1,City X,2021,81340.26
-Country C,Region 3,City X,2020,55957.78
-Country A,Region 2,City Y,2019,48001.07
-Country A,Region 1,City X,2019,36319.79
-Country A,Region 3,City X,2018,11270.5
-Country B,Region 3,City Y,2018,43969.23
-Country B,Region 3,City Y,2022,74909.45
-Country A,Region 2,City X,2020,29271.07
-Country A,Region 2,City Y,2019,99517.95
-Country C,Region 1,City X,2019,68716.85
-Country C,Region 2,City Y,2020,60495.97
-Country A,Region 3,City X,2018,26390.23
-Country C,Region 1,City Z,2021,38929.02
-Country C,Region 1,City Y,2022,62604.34
-Country C,Region 3,City Y,2019,44166.46
-Country A,Region 1,City X,2020,74927.49
-Country C,Region 3,City X,2019,44860.29
-Country C,Region 3,City Z,2022,34323.61
-Country C,Region 2,City Z,2020,98464.21
-Country A,Region 1,City Z,2020,33380.42
-Country A,Region 3,City X,2019,67684.04
-Country A,Region 2,City Y,2018,18246.99
-Country B,Region 1,City Y,2021,98006.74
-Country A,Region 3,City Y,2020,55781.35
-Country C,Region 1,City Z,2018,55608.88
-Country C,Region 3,City X,2018,50390.99
-Country A,Region 1,City Y,2020,70688.34
-Country A,Region 1,City Y,2022,40798.86
-Country A,Region 1,City Y,2020,36808.36
-Country B,Region 3,City Y,2018,23469.93
-Country A,Region 1,City Z,2021,26986.76
-Country A,Region 1,City Y,2019,46755.65
-Country C,Region 2,City X,2018,11220.59
-Country A,Region 2,City Z,2020,63608.72
-Country B,Region 1,City Z,2019,70913.6
-Country B,Region 2,City X,2020,61628.41
-Country C,Region 3,City Y,2021,42597.07
-Country A,Region 2,City Z,2022,63062.68
-Country B,Region 2,City Y,2019,89694.58
-Country B,Region 1,City Z,2018,21172.98
-Country A,Region 1,City Z,2019,56544.31
-Country A,Region 1,City Y,2019,73138.4
-Country C,Region 2,City Y,2022,99817.61
-Country B,Region 3,City X,2020,70250.58
-Country C,Region 3,City Y,2022,63033.27
-Country B,Region 3,City Y,2022,52283.37
-Country A,Region 2,City Z,2018,66634.76
-Country C,Region 1,City X,2022,40242.19
-Country B,Region 3,City X,2019,60500.07
-Country B,Region 2,City Z,2020,94433.72
-Country A,Region 1,City X,2019,78633.5
-Country B,Region 2,City X,2019,56639.98
-Country B,Region 3,City Z,2019,48820.87
-Country C,Region 2,City Y,2018,94565.57
-Country B,Region 2,City Y,2018,46573.58
-Country C,Region 1,City Z,2019,22076.49
-Country C,Region 1,City Y,2021,57723.65
-Country C,Region 2,City Z,2018,50166.46
-Country A,Region 2,City Y,2018,84146.07
-Country C,Region 2,City Y,2018,70064.05
-Country B,Region 3,City Z,2018,36628.61
-Country B,Region 3,City Z,2018,48945.95
-Country C,Region 3,City Y,2020,14616.31
-Country B,Region 2,City Y,2018,10663.53
-Country A,Region 2,City Z,2018,57254.52
-Country A,Region 2,City X,2019,30993.09
-Country B,Region 1,City X,2022,14251.57
-Country C,Region 2,City Z,2018,99442.3
-Country B,Region 3,City X,2018,38549.58
-Country C,Region 1,City Y,2022,21181.22
-Country A,Region 3,City Z,2018,30261.22
-Country C,Region 2,City Z,2019,83655.18
-Country C,Region 2,City X,2021,88028.96
-Country C,Region 1,City Z,2021,17769.84
-Country C,Region 3,City Y,2019,88416.17
-Country C,Region 2,City Z,2018,46575.33
-Country B,Region 1,City Z,2019,87750.42
-Country B,Region 2,City Y,2018,53364.72
-Country A,Region 2,City Z,2019,60240.0
-Country C,Region 2,City X,2021,79135.92
-Country C,Region 1,City X,2021,24899.37
-Country C,Region 3,City X,2020,42913.22
-Country B,Region 3,City Z,2022,69203.33
-Country B,Region 1,City Z,2019,90205.68
-Country C,Region 1,City X,2021,94391.58
-Country B,Region 3,City Z,2018,87817.3
-Country C,Region 2,City Y,2019,13848.97
-Country A,Region 3,City Z,2021,99176.16
-Country B,Region 1,City Y,2021,55940.93
-Country C,Region 2,City Z,2020,31992.23
-Country A,Region 1,City Y,2018,10082.17
-Country A,Region 3,City Z,2021,61753.45
-Country A,Region 1,City Z,2022,76738.89
-Country A,Region 1,City X,2022,34311.55
-Country B,Region 3,City Z,2018,38233.85
-Country A,Region 3,City Z,2020,22863.35
-Country B,Region 1,City Y,2021,56179.78
-Country A,Region 3,City Y,2019,14625.08
-Country A,Region 1,City X,2018,85543.01
-Country B,Region 1,City Y,2018,51304.05
-Country A,Region 3,City X,2021,81934.01
-Country C,Region 1,City Y,2021,59835.57
-Country C,Region 2,City X,2020,62541.23
-Country C,Region 2,City Z,2022,88832.23
-Country B,Region 3,City Y,2020,53013.94
-Country C,Region 2,City Z,2019,82186.98
-Country B,Region 1,City X,2021,31391.8
-Country B,Region 1,City X,2019,54257.0
-Country A,Region 3,City X,2020,83923.42
-Country C,Region 2,City Y,2020,44845.84
-Country B,Region 1,City Y,2021,41982.2
-Country A,Region 1,City Z,2022,18501.69
-Country A,Region 1,City Y,2018,77093.06
-Country A,Region 1,City X,2018,28163.23
-Country C,Region 3,City X,2022,41655.15
-Country C,Region 1,City Y,2022,75926.29
-Country C,Region 2,City X,2019,91494.7
-Country B,Region 3,City Y,2020,98114.94
-Country C,Region 2,City X,2020,55996.7
-Country A,Region 1,City X,2019,83480.89
-Country A,Region 2,City X,2022,74530.85
-Country C,Region 1,City Z,2021,48830.57
-Country C,Region 1,City Y,2020,91944.32
-Country B,Region 2,City Y,2021,51039.97
-Country C,Region 1,City Z,2018,85179.23
-Country B,Region 3,City X,2019,69170.1
-Country C,Region 3,City Y,2022,46994.21
-Country B,Region 2,City Y,2018,11854.35
-Country A,Region 1,City Y,2018,80359.66
-Country B,Region 3,City X,2020,77043.72
-Country C,Region 1,City X,2018,90493.84
-Country C,Region 3,City Z,2021,53283.44
-Country C,Region 3,City Z,2022,42238.82
-Country A,Region 3,City Z,2022,29152.87
-Country C,Region 3,City Y,2019,16612.48
-Country C,Region 3,City Z,2018,10104.45
-Country B,Region 2,City Y,2019,48686.5
-Country C,Region 3,City Y,2019,52105.7
-Country A,Region 1,City X,2022,49282.8
-Country B,Region 1,City X,2018,30980.33
-Country A,Region 1,City Z,2021,14017.29
-Country A,Region 2,City Y,2022,79338.5
-Country A,Region 2,City X,2021,47309.5
-Country A,Region 2,City X,2020,59622.42
-Country B,Region 3,City Y,2022,84303.2
-Country A,Region 2,City Z,2019,79505.56
-Country B,Region 3,City Z,2021,59786.17
-Country C,Region 2,City X,2021,14616.03
-Country C,Region 1,City Z,2019,12259.92
-Country C,Region 1,City X,2018,65980.84
-Country C,Region 1,City X,2022,74631.54
-Country C,Region 1,City Y,2020,35008.01
-Country A,Region 1,City Y,2021,37808.18
-Country A,Region 2,City Z,2019,80570.61
-Country B,Region 1,City X,2022,61584.89
-Country A,Region 1,City X,2021,21323.96
-Country A,Region 1,City X,2020,98356.2
-Country B,Region 1,City Y,2021,24508.27
-Country C,Region 1,City Y,2019,95535.6
-Country B,Region 1,City X,2020,99030.96
-Country B,Region 1,City Y,2020,11340.17
-Country A,Region 2,City X,2019,25727.42
-Country C,Region 2,City X,2021,18918.35
-Country C,Region 2,City Z,2021,64244.94
-Country B,Region 3,City X,2018,85206.47
-Country B,Region 3,City Z,2019,58456.4
-Country A,Region 1,City Z,2019,45749.69
-Country B,Region 2,City Y,2018,50409.45
-Country C,Region 2,City Y,2020,46075.93
-Country B,Region 1,City Y,2022,91877.55
-Country C,Region 2,City X,2019,13669.46
-Country A,Region 1,City Y,2019,53912.63
-Country B,Region 1,City X,2020,71140.73
-Country A,Region 2,City X,2019,99007.19
-Country B,Region 3,City Z,2021,61626.16
-Country C,Region 1,City Z,2020,24430.11
-Country C,Region 3,City X,2021,42502.72
-Country A,Region 3,City Z,2022,16782.9
-Country B,Region 2,City X,2018,19249.09
-Country C,Region 3,City Y,2021,64480.54
-Country A,Region 3,City X,2021,64030.6
-Country B,Region 3,City Z,2022,36973.35
-Country B,Region 3,City Z,2018,34468.56
-Country B,Region 3,City Y,2021,36410.56
-Country B,Region 3,City Y,2022,61777.16
-Country A,Region 2,City X,2020,26537.93
-Country A,Region 3,City Z,2022,52811.57
-Country B,Region 3,City Y,2019,20499.35
-Country A,Region 3,City X,2022,74065.6
-Country C,Region 1,City Z,2018,38945.04
-Country C,Region 3,City X,2021,54662.48
-Country A,Region 3,City X,2018,92278.69
-Country C,Region 3,City Y,2021,84403.77
-Country A,Region 2,City Z,2022,10192.36
-Country C,Region 3,City Y,2018,14310.71
-Country A,Region 2,City Y,2018,60443.54
-Country C,Region 1,City Y,2019,33096.53
-Country A,Region 1,City Z,2021,32981.65
-Country C,Region 3,City X,2020,74461.66
-Country B,Region 2,City Z,2019,42879.19
-Country B,Region 1,City Z,2018,45139.57
-Country C,Region 3,City X,2019,61936.9
-Country A,Region 3,City Z,2020,77425.6
-Country C,Region 3,City Y,2019,51689.3
-Country B,Region 2,City Z,2020,10184.24
-Country C,Region 1,City Z,2021,87046.18
-Country C,Region 3,City Y,2022,76424.76
-Country C,Region 1,City Z,2021,41409.16
-Country B,Region 2,City X,2021,44569.19
-Country C,Region 2,City Z,2019,84569.04
-Country A,Region 2,City X,2020,69586.74
-Country C,Region 1,City Y,2020,17813.17
-Country B,Region 2,City X,2022,71336.05
-Country C,Region 3,City Y,2020,53545.51
-Country B,Region 1,City X,2022,97700.14
-Country B,Region 3,City X,2018,31283.39
-Country C,Region 1,City Y,2018,87554.49
-Country B,Region 3,City Y,2020,25481.71
-Country A,Region 1,City X,2018,52167.65
-Country A,Region 2,City X,2022,33870.72
-Country B,Region 3,City Z,2022,23458.99
-Country A,Region 3,City Z,2021,34824.14
-Country C,Region 2,City Y,2021,70295.06
-Country B,Region 1,City X,2019,67920.45
-Country B,Region 2,City X,2022,38954.63
-Country A,Region 3,City Y,2022,48770.66
-Country C,Region 2,City Z,2018,38461.92
-Country C,Region 1,City Z,2018,63976.04
-Country B,Region 2,City Y,2020,98804.79
-Country C,Region 3,City X,2019,46362.51
-Country B,Region 1,City Z,2022,24342.5
-Country B,Region 2,City Z,2020,51495.38
-Country B,Region 1,City X,2018,38856.76
-Country B,Region 3,City X,2019,75353.93
-Country A,Region 3,City X,2018,33696.9
-Country C,Region 1,City Z,2020,47185.09
-Country C,Region 3,City Z,2020,50179.12
-Country B,Region 3,City X,2022,35522.94
-Country A,Region 2,City Y,2021,93666.14
-Country A,Region 1,City Z,2019,70664.19
-Country A,Region 3,City Y,2018,27558.3
-Country B,Region 3,City Z,2019,85976.24
-Country B,Region 1,City Y,2021,15700.86
-Country C,Region 3,City X,2021,40435.81
-Country B,Region 3,City Y,2020,51552.49
-Country A,Region 2,City Z,2020,32394.32
-Country C,Region 1,City Z,2019,99090.84
-Country C,Region 3,City X,2020,99218.04
-Country A,Region 2,City X,2020,66828.43
-Country C,Region 2,City X,2019,95695.45
-Country A,Region 2,City X,2021,48769.82
-Country B,Region 1,City Z,2020,15255.04
-Country C,Region 1,City X,2019,12213.18
-Country A,Region 2,City Z,2019,63214.77
-Country B,Region 3,City Y,2021,38621.73
-Country B,Region 1,City Z,2020,88855.91
-Country A,Region 2,City Y,2020,32987.49
-Country A,Region 1,City Y,2018,25398.02
-Country C,Region 3,City Y,2022,30403.54
-Country C,Region 2,City Z,2022,73896.38
-Country A,Region 1,City X,2019,17996.65
-Country A,Region 3,City X,2018,63090.66
-Country C,Region 1,City X,2020,28907.08
-Country B,Region 2,City X,2020,29090.44
-Country C,Region 2,City Y,2022,11629.29
-Country A,Region 3,City X,2019,58908.19
-Country B,Region 2,City X,2022,83988.98
-Country C,Region 2,City Y,2022,73571.23
-Country C,Region 3,City Z,2021,25592.84
-Country A,Region 1,City Z,2020,17027.12
-Country C,Region 1,City X,2021,41749.12
-Country C,Region 1,City X,2020,80200.86
-Country B,Region 2,City Y,2019,98868.63
-Country A,Region 3,City X,2020,66727.03
-Country B,Region 2,City Y,2021,87848.36
-Country C,Region 3,City X,2020,62003.78
-Country A,Region 3,City Y,2018,53830.53
-Country C,Region 1,City Y,2021,22551.83
-Country C,Region 1,City X,2020,26127.89
-Country B,Region 2,City Z,2021,76471.78
-Country B,Region 1,City Z,2022,20456.72
-Country C,Region 3,City Y,2021,91285.67
-Country B,Region 1,City Y,2020,54594.57
-Country C,Region 3,City Z,2022,72267.02
-Country A,Region 3,City Y,2019,60496.32
-Country A,Region 3,City Z,2018,32019.66
-Country A,Region 2,City Y,2018,75775.55
-Country B,Region 1,City X,2022,56820.89
-Country A,Region 1,City Y,2019,21325.36
-Country A,Region 1,City Y,2019,67766.85
-Country C,Region 3,City Y,2021,48807.63
-Country C,Region 1,City Y,2021,17882.4
-Country B,Region 2,City Z,2018,70521.59
-Country C,Region 1,City Y,2018,87986.82
-Country C,Region 2,City Z,2020,80605.61
-Country C,Region 2,City X,2022,30363.12
-Country A,Region 2,City Z,2021,46835.75
-Country B,Region 2,City Z,2019,86683.49
-Country C,Region 3,City Z,2019,33313.93
-Country C,Region 2,City Z,2020,54706.87
-Country C,Region 1,City Z,2022,83556.06
-Country C,Region 2,City Z,2019,61580.78
-Country A,Region 1,City Y,2020,69936.84
-Country C,Region 1,City Z,2022,29380.04
-Country C,Region 2,City Y,2020,70090.96
-Country A,Region 1,City X,2018,94747.34
-Country C,Region 3,City X,2020,79790.59
-Country A,Region 3,City X,2018,20930.82
-Country C,Region 1,City Z,2018,46891.59
-Country C,Region 1,City Y,2022,74116.11
-Country C,Region 2,City X,2019,56629.46
-Country B,Region 1,City X,2021,19872.69
-Country B,Region 1,City Z,2019,20340.89
-Country B,Region 2,City Z,2021,96265.48
-Country A,Region 2,City Y,2022,47737.89
-Country C,Region 3,City Y,2021,73664.83
-Country B,Region 3,City Y,2020,20544.01
-Country C,Region 2,City Z,2019,34830.48
-Country B,Region 1,City X,2022,41728.62
-Country B,Region 1,City Z,2019,80480.43
-Country B,Region 3,City Z,2019,36716.95
-Country B,Region 2,City X,2022,91129.16
-Country A,Region 2,City Z,2019,36107.14
-Country B,Region 2,City Z,2018,16904.38
-Country B,Region 1,City Z,2018,30123.5
-Country B,Region 2,City X,2021,16446.06
-Country B,Region 2,City X,2021,67381.02
-Country C,Region 3,City Z,2021,23296.3
-Country A,Region 1,City Y,2021,19415.35
-Country C,Region 3,City Z,2018,81653.44
-Country A,Region 3,City Z,2020,83212.42
-Country A,Region 2,City Y,2021,54536.05
-Country A,Region 3,City X,2022,85302.54
-Country C,Region 3,City X,2022,57365.1
-Country B,Region 2,City X,2019,19688.52
-Country C,Region 2,City Y,2018,69176.73
-Country C,Region 2,City X,2022,52786.18
-Country C,Region 1,City Z,2018,88803.92
-Country A,Region 1,City Z,2020,42251.62
-Country B,Region 2,City Y,2019,27625.63
-Country B,Region 3,City Z,2022,80895.16
-Country A,Region 1,City Z,2019,88406.82
-Country A,Region 3,City X,2021,72106.74
-Country A,Region 2,City Y,2021,93685.49
-Country C,Region 2,City X,2021,62501.27
-Country A,Region 2,City X,2019,61100.01
-Country A,Region 2,City Y,2019,68508.23
-Country A,Region 3,City Y,2018,84716.25
-Country C,Region 1,City Y,2018,29913.52
-Country B,Region 1,City X,2020,46814.19
-Country B,Region 3,City Z,2019,85598.44
-Country B,Region 1,City Y,2019,34500.74
-Country A,Region 3,City Y,2018,40918.72
-Country B,Region 3,City X,2021,14987.17
-Country A,Region 1,City X,2018,13262.21
-Country C,Region 3,City X,2022,28311.48
-Country A,Region 1,City X,2018,49478.43
-Country C,Region 3,City Z,2020,23729.59
-Country C,Region 1,City Y,2021,53897.12
-Country A,Region 1,City Y,2019,94423.61
-Country C,Region 1,City Y,2020,74215.51
-Country B,Region 2,City X,2019,68264.58
-Country B,Region 3,City Y,2020,93812.3
-Country A,Region 3,City X,2022,39336.51
-Country A,Region 2,City Z,2020,13091.58
-Country C,Region 3,City Z,2021,29379.27
-Country B,Region 1,City Z,2018,17284.51
-Country C,Region 2,City X,2022,55109.21
-Country B,Region 1,City Z,2020,58163.35
-Country A,Region 2,City X,2018,45203.29
-Country B,Region 3,City Z,2018,48027.36
-Country A,Region 3,City Y,2022,71841.56
-Country C,Region 1,City Y,2018,38184.93
-Country A,Region 2,City Z,2019,27068.21
-Country A,Region 3,City X,2018,52860.88
-Country A,Region 1,City Y,2019,58701.11
-Country B,Region 2,City Y,2019,20824.05
-Country C,Region 2,City X,2019,38432.07
-Country C,Region 1,City Z,2018,19772.75
-Country A,Region 3,City Z,2020,19567.95
-Country C,Region 3,City X,2019,81547.04
-Country A,Region 3,City Y,2018,53064.13
-Country B,Region 3,City X,2020,56939.68
-Country B,Region 2,City Z,2022,86805.29
-Country A,Region 2,City X,2018,15539.9
-Country A,Region 2,City X,2021,97004.02
-Country A,Region 1,City Y,2018,65235.33
-Country A,Region 2,City X,2020,33897.89
-Country A,Region 1,City X,2022,51925.98
-Country B,Region 2,City Z,2019,43644.05
-Country A,Region 1,City X,2021,32852.48
-Country A,Region 3,City Y,2019,38179.37
-Country A,Region 3,City Z,2018,44769.18
-Country C,Region 2,City X,2022,37770.23
-Country C,Region 3,City Y,2021,58953.78
-Country C,Region 2,City Z,2019,33768.24
-Country C,Region 3,City Y,2019,49899.09
-Country C,Region 2,City Y,2021,50569.31
-Country A,Region 3,City Y,2021,32530.51
-Country C,Region 1,City Z,2019,96725.54
-Country B,Region 3,City Y,2018,41978.62
-Country C,Region 2,City X,2019,63612.46
-Country B,Region 2,City X,2019,35973.63
-Country A,Region 3,City X,2022,49585.51
-Country C,Region 1,City X,2020,44874.3
-Country B,Region 1,City X,2021,55908.38
-Country B,Region 3,City Y,2020,64743.33
-Country B,Region 2,City Y,2021,56464.96
-Country C,Region 1,City Z,2022,73617.23
-Country A,Region 2,City Z,2018,24697.55
-Country A,Region 3,City Y,2021,95901.01
-Country C,Region 1,City Y,2019,80268.15
-Country C,Region 3,City X,2021,43544.57
-Country A,Region 2,City X,2020,20046.28
-Country B,Region 2,City Y,2020,99836.61
-Country C,Region 2,City X,2019,95563.63
-Country B,Region 3,City Z,2021,86211.08
-Country B,Region 3,City Z,2022,98178.31
-Country C,Region 3,City Y,2022,92476.2
-Country C,Region 3,City Y,2021,17730.51
-Country B,Region 1,City Z,2020,65269.47
-Country B,Region 3,City Y,2018,68767.11
-Country B,Region 1,City Z,2020,80859.32
-Country A,Region 3,City Y,2020,23185.32
-Country A,Region 2,City Z,2018,34052.29
-Country A,Region 3,City Z,2020,77125.77
-Country C,Region 3,City X,2021,66727.89
-Country C,Region 2,City X,2022,49522.67
-Country B,Region 3,City X,2021,94563.42
-Country A,Region 1,City Y,2021,49774.15
-Country C,Region 2,City Y,2018,20104.75
-Country B,Region 1,City Z,2018,80891.18
-Country B,Region 2,City Y,2018,78327.44
-Country B,Region 3,City Y,2018,80609.94
-Country A,Region 2,City Y,2018,89685.5
-Country A,Region 2,City X,2020,53910.6
-Country B,Region 2,City Z,2020,52348.09
-Country C,Region 1,City Z,2019,73722.74
-Country B,Region 3,City Y,2022,18875.63
-Country B,Region 3,City Z,2022,66628.98
-Country B,Region 2,City Y,2020,26890.77
-Country B,Region 2,City Y,2018,39246.16
-Country C,Region 3,City Z,2018,59497.81
-Country B,Region 2,City Z,2022,28495.7
-Country A,Region 3,City Y,2020,58871.78
-Country A,Region 2,City Y,2021,54737.77
-Country A,Region 1,City X,2020,41453.96
-Country A,Region 2,City Z,2020,89115.49
-Country B,Region 3,City Z,2021,51852.73
-Country C,Region 3,City X,2019,59779.95
-Country C,Region 2,City X,2018,64849.51
-Country A,Region 3,City Z,2018,16439.62
-Country C,Region 3,City Y,2020,59836.48
-Country A,Region 1,City X,2019,96131.57
-Country B,Region 2,City Y,2019,59947.28
-Country C,Region 3,City Z,2021,72620.64
-Country A,Region 2,City Y,2018,41395.33
-Country C,Region 2,City Z,2022,16247.9
-Country B,Region 1,City Y,2021,67787.13
-Country C,Region 1,City X,2018,10512.89
-Country C,Region 1,City Y,2020,63007.14
-Country B,Region 2,City Z,2020,19782.26
-Country A,Region 1,City Z,2020,15631.59
-Country C,Region 1,City Y,2020,33689.35
-Country A,Region 2,City Y,2019,27198.82
-Country C,Region 1,City Y,2020,71314.32
-Country C,Region 2,City Z,2020,55105.89
-Country B,Region 3,City Z,2018,27624.23
-Country B,Region 2,City Z,2021,89894.98
-Country A,Region 1,City Z,2022,57631.21
-Country C,Region 3,City Y,2020,26108.8
-Country B,Region 3,City Z,2018,44889.21
-Country A,Region 3,City Z,2019,87414.55
-Country B,Region 2,City Y,2021,40451.13
-Country C,Region 2,City X,2018,84093.96
-Country A,Region 2,City Z,2018,32326.58
-Country A,Region 1,City Y,2018,10400.08
-Country A,Region 3,City X,2020,28068.54
-Country A,Region 3,City Z,2019,98328.59
-Country B,Region 1,City Z,2021,47344.19
-Country A,Region 2,City X,2019,27744.1
-Country B,Region 1,City Z,2022,70302.33
-Country A,Region 2,City Y,2021,88957.62
-Country A,Region 2,City Y,2018,65336.01
-Country A,Region 1,City Y,2020,71715.3
-Country A,Region 2,City X,2020,10439.22
-Country C,Region 1,City Y,2020,56724.46
-Country A,Region 2,City X,2018,83442.61
-Country B,Region 3,City Z,2019,29041.05
-Country A,Region 3,City Y,2020,93122.34
-Country B,Region 1,City Y,2021,73865.45
-Country C,Region 3,City Y,2019,95859.0
-Country C,Region 3,City Y,2020,44709.8
-Country C,Region 2,City Y,2020,75242.96
-Country B,Region 3,City X,2018,74645.77
-Country B,Region 3,City X,2021,28152.47
-Country C,Region 3,City X,2020,42965.82
-Country A,Region 3,City Y,2021,46526.9
-Country C,Region 3,City X,2019,25952.35
-Country C,Region 3,City Z,2018,46235.05
-Country A,Region 1,City Z,2018,30568.14
-Country A,Region 2,City Y,2021,30285.21
-Country C,Region 2,City X,2018,32661.45
-Country B,Region 3,City Y,2020,70616.8
-Country B,Region 3,City X,2021,85895.74
-Country C,Region 2,City Z,2022,93554.02
-Country C,Region 1,City X,2021,86069.79
-Country A,Region 3,City Y,2018,30236.84
-Country B,Region 3,City Y,2021,22997.8
-Country C,Region 1,City Z,2018,77706.63
-Country C,Region 2,City X,2018,85426.6
-Country A,Region 1,City X,2019,66945.73
-Country B,Region 1,City Z,2020,42445.5
-Country B,Region 3,City Z,2018,13380.16
-Country C,Region 1,City X,2018,56039.25
-Country B,Region 1,City Z,2020,36651.97
-Country C,Region 2,City Z,2019,27085.35
-Country B,Region 1,City Y,2022,98906.26
-Country C,Region 2,City Z,2019,94690.37
-Country A,Region 3,City Y,2021,40826.43
-Country B,Region 3,City Y,2021,34410.44
-Country B,Region 1,City Z,2020,40551.09
-Country C,Region 2,City Z,2019,38583.7
-Country C,Region 2,City X,2022,37397.57
-Country B,Region 2,City Z,2019,12141.46
-Country A,Region 2,City Z,2021,16494.9
-Country C,Region 1,City Z,2018,14019.23
-Country C,Region 3,City X,2019,13060.22
-Country C,Region 1,City Y,2022,88224.27
-Country A,Region 1,City X,2019,50644.3
-Country B,Region 2,City Y,2019,55685.75
-Country B,Region 1,City X,2018,42050.76
-Country B,Region 3,City Z,2020,60798.86
-Country B,Region 3,City Z,2018,82428.41
-Country C,Region 3,City X,2019,60154.58
-Country A,Region 1,City Y,2018,64175.42
-Country B,Region 1,City X,2018,61009.14
-Country C,Region 1,City X,2022,97959.87
-Country B,Region 2,City Z,2019,42515.47
-Country A,Region 1,City Y,2019,44975.83
-Country B,Region 1,City Y,2018,10502.42
-Country C,Region 3,City X,2022,40435.31
-Country B,Region 3,City Y,2020,94990.0
-Country B,Region 2,City Y,2019,77142.54
-Country C,Region 1,City Y,2020,30505.87
-Country A,Region 1,City Z,2021,78463.39
-Country B,Region 1,City X,2021,66847.63
-Country C,Region 3,City Y,2019,51759.15
-Country A,Region 1,City Y,2022,92579.5
-Country C,Region 1,City Z,2022,99036.46
-Country A,Region 1,City X,2019,95927.28
-Country B,Region 3,City Y,2019,21217.9
-Country C,Region 3,City X,2018,64762.85
-Country A,Region 3,City X,2018,54915.75
-Country B,Region 1,City Y,2018,75013.84
-Country A,Region 2,City Y,2018,73765.34
-Country B,Region 2,City Y,2019,61946.03
-Country C,Region 2,City X,2020,89313.63
-Country A,Region 1,City X,2021,69469.77
-Country C,Region 2,City Y,2022,91607.84
-Country B,Region 3,City Z,2020,40504.04
-Country B,Region 2,City Z,2019,54412.74
-Country B,Region 2,City X,2022,45374.71
-Country A,Region 2,City Y,2021,21477.75
-Country B,Region 1,City Y,2019,46529.93
-Country A,Region 3,City Y,2018,31014.4
-Country A,Region 1,City Y,2019,65549.14
-Country A,Region 1,City Z,2022,83558.76
-Country B,Region 3,City Z,2020,26107.45
-Country A,Region 1,City X,2018,44990.57
-Country A,Region 3,City Z,2018,74955.33
-Country C,Region 2,City Z,2020,76143.88
-Country C,Region 3,City X,2019,38316.74
-Country B,Region 3,City Z,2019,84091.69
-Country C,Region 3,City Y,2020,79433.47
-Country C,Region 2,City Y,2022,77623.95
-Country B,Region 3,City Z,2021,58205.36
-Country A,Region 2,City Y,2018,71853.95
-Country B,Region 2,City Y,2018,27159.13
-Country A,Region 1,City Y,2022,30932.92
-Country B,Region 1,City X,2019,88699.09
-Country C,Region 1,City Y,2020,95857.89
-Country B,Region 3,City X,2020,48460.39
-Country C,Region 1,City Z,2020,67540.13
-Country B,Region 3,City Y,2019,35593.85
-Country A,Region 3,City Z,2021,77540.4
-Country A,Region 1,City X,2022,54267.5
-Country A,Region 1,City Z,2018,90414.05
-Country B,Region 2,City Y,2020,24547.96
-Country C,Region 2,City X,2021,71018.93
-Country C,Region 2,City X,2019,46508.52
-Country C,Region 1,City Z,2021,94834.98
-Country B,Region 2,City Z,2019,62484.96
-Country B,Region 1,City Z,2021,19195.0
-Country C,Region 2,City Z,2018,69797.19
-Country C,Region 2,City Y,2018,79873.32
-Country B,Region 2,City Z,2019,85080.78
-Country A,Region 2,City X,2022,24740.05
-Country B,Region 3,City Y,2019,63105.7
-Country C,Region 2,City X,2021,95338.79
-Country A,Region 1,City Y,2018,24275.66
-Country C,Region 3,City Z,2019,78197.21
-Country A,Region 2,City Z,2021,21238.23
-Country B,Region 1,City Y,2020,88757.49
-Country A,Region 1,City Z,2022,28804.78
-Country A,Region 2,City X,2020,73543.38
-Country C,Region 2,City Y,2018,24607.09
-Country A,Region 1,City Z,2020,37897.41
-Country C,Region 1,City Y,2022,73691.57
-Country A,Region 1,City X,2018,66365.08
-Country C,Region 3,City Y,2020,32518.77
-Country B,Region 3,City Z,2022,31902.15
-Country B,Region 2,City Z,2018,30066.16
-Country A,Region 3,City Z,2021,57296.52
-Country C,Region 1,City X,2020,77527.98
-Country B,Region 2,City Z,2022,12228.12
-Country C,Region 1,City X,2018,65532.12
-Country B,Region 1,City Y,2018,94961.64
-Country A,Region 2,City Z,2019,21370.08
-Country A,Region 1,City Y,2021,72246.64
-Country B,Region 1,City Z,2018,89104.71
-Country A,Region 3,City Y,2019,32362.09
-Country B,Region 2,City X,2020,60640.36
-Country C,Region 2,City X,2018,23166.33
-Country A,Region 1,City Y,2020,70976.23
-Country A,Region 1,City X,2019,88975.87
-Country A,Region 2,City Y,2020,62395.22
-Country B,Region 3,City Y,2020,13891.68
-Country A,Region 2,City Z,2022,30567.61
-Country C,Region 1,City Z,2020,43069.54
-Country C,Region 2,City Y,2022,62836.82
-Country A,Region 2,City Z,2020,27234.24
-Country B,Region 3,City X,2020,24843.72
-Country C,Region 1,City X,2021,39106.14
-Country A,Region 3,City X,2022,76975.6
-Country C,Region 1,City Z,2018,47198.03
-Country C,Region 3,City Z,2021,10916.9
-Country B,Region 2,City Y,2019,31789.38
-Country C,Region 2,City Y,2019,83496.2
-Country B,Region 3,City X,2018,56937.13
-Country A,Region 3,City X,2022,90473.66
-Country C,Region 2,City Y,2018,81537.1
-Country A,Region 1,City X,2019,47912.0
-Country A,Region 3,City X,2018,55924.09
-Country A,Region 2,City Y,2021,74072.83
-Country C,Region 1,City Y,2018,82737.26
-Country B,Region 1,City X,2022,19554.68
-Country C,Region 2,City X,2018,17339.01
-Country A,Region 3,City Y,2020,62905.15
-Country C,Region 3,City Z,2022,43809.63
-Country A,Region 2,City X,2021,92648.73
-Country B,Region 1,City Y,2019,57170.75
-Country A,Region 2,City Y,2019,83750.22
-Country A,Region 2,City Z,2019,94012.06
-Country A,Region 2,City Z,2018,92796.13
-Country C,Region 2,City Y,2020,96719.9
-Country A,Region 2,City X,2018,11242.9
-Country A,Region 2,City X,2022,87351.11
-Country B,Region 3,City Z,2019,40485.89
-Country C,Region 1,City Y,2022,26137.77
-Country B,Region 3,City X,2021,36493.75
-Country C,Region 3,City Y,2022,67345.02
-Country A,Region 1,City Z,2019,91239.29
-Country A,Region 1,City Z,2019,80385.84
-Country A,Region 3,City Y,2022,45183.61
-Country C,Region 1,City Z,2021,28749.69
-Country C,Region 3,City Y,2020,90826.98
-Country B,Region 2,City X,2022,27026.48
-Country A,Region 2,City X,2022,19388.98
-Country C,Region 1,City X,2020,74350.19
-Country B,Region 2,City X,2022,97759.41
-Country C,Region 1,City Y,2018,74148.89
-Country B,Region 3,City X,2020,18141.81
-Country C,Region 1,City X,2021,43524.26
-Country B,Region 2,City Y,2022,43380.95
-Country B,Region 3,City Z,2021,42844.89
-Country B,Region 2,City Y,2021,25219.77
-Country B,Region 2,City X,2022,44468.32
-Country C,Region 2,City Y,2022,48492.34
-Country A,Region 1,City Y,2021,53832.9
-Country C,Region 1,City Y,2022,27581.17
-Country A,Region 2,City Y,2020,97965.25
-Country A,Region 1,City Y,2022,99995.18
-Country C,Region 3,City X,2018,83725.58
-Country C,Region 1,City Y,2022,58962.73
-Country C,Region 3,City Z,2021,78316.52
-Country C,Region 3,City Z,2019,16449.15
-Country A,Region 1,City X,2022,81347.87
-Country B,Region 1,City Z,2018,65301.57
-Country A,Region 1,City Z,2020,95431.06
-Country A,Region 1,City Z,2019,94801.87
-Country A,Region 1,City Z,2022,90557.46
-Country A,Region 3,City Y,2020,40001.25
-Country C,Region 2,City Y,2020,68047.21
-Country B,Region 3,City X,2020,61952.9
-Country A,Region 1,City Z,2018,24449.01
-Country C,Region 3,City Y,2021,31143.87
-Country B,Region 1,City X,2021,72758.51
-Country B,Region 3,City X,2019,24876.67
-Country B,Region 1,City X,2022,10049.03
-Country C,Region 2,City Z,2021,55283.24
-Country A,Region 1,City X,2018,17299.73
-Country B,Region 2,City Y,2021,92310.68
-Country B,Region 1,City X,2018,74791.14
-Country B,Region 1,City Y,2018,61858.6
-Country B,Region 2,City Y,2021,10561.2
-Country C,Region 2,City Z,2021,47148.3
-Country C,Region 3,City X,2020,46485.38
-Country B,Region 3,City X,2022,31104.53
-Country A,Region 3,City Z,2022,60588.03
-Country A,Region 1,City Y,2022,48122.97
-Country B,Region 2,City Y,2022,51255.79
-Country A,Region 2,City X,2021,52229.16
-Country C,Region 3,City Y,2020,13939.11
-Country B,Region 3,City Z,2022,31558.34
-Country B,Region 1,City Y,2021,31366.93
-Country C,Region 2,City X,2018,25094.72
-Country C,Region 1,City Z,2022,31250.06
-Country B,Region 1,City Z,2020,34259.64
-Country B,Region 3,City X,2022,94296.76
-Country B,Region 3,City X,2018,14338.19
-Country B,Region 2,City X,2019,83350.1
-Country C,Region 1,City X,2022,78276.21
-Country C,Region 3,City Z,2018,85175.3
-Country C,Region 3,City Z,2022,86281.84
-Country C,Region 1,City X,2019,34956.79
-Country B,Region 1,City Y,2021,62875.24
-Country B,Region 2,City X,2018,42817.84
-Country B,Region 2,City Y,2019,14167.68
-Country A,Region 1,City Y,2020,40558.5
-Country C,Region 3,City Z,2021,10846.45
-Country B,Region 2,City X,2022,87375.12
-Country C,Region 2,City Y,2022,92396.55
-Country A,Region 2,City X,2020,98339.22
-Country C,Region 1,City Z,2022,98985.9
-Country A,Region 2,City X,2020,57985.52
-Country C,Region 1,City Y,2020,23896.34
-Country C,Region 3,City X,2021,21394.74
-Country B,Region 3,City Y,2022,95843.17
-Country A,Region 1,City Y,2022,81190.18
-Country B,Region 3,City Z,2020,32253.93
-Country B,Region 3,City Z,2022,63217.0
-Country A,Region 2,City X,2020,78886.52
-Country B,Region 3,City X,2021,91858.4
-Country B,Region 2,City Y,2022,53144.02
-Country B,Region 2,City Z,2022,79505.9
-Country B,Region 1,City Z,2019,10611.23
-Country B,Region 3,City Z,2022,10012.06
-Country B,Region 2,City Y,2021,93899.53
-Country B,Region 3,City X,2020,88533.68
-Country C,Region 2,City Z,2020,33143.76
-Country B,Region 1,City Z,2019,40845.19
-Country A,Region 2,City Z,2021,52060.54
-Country A,Region 3,City Z,2018,22177.76
-Country C,Region 1,City Z,2022,12758.48
-Country A,Region 1,City Z,2022,43583.45
-Country B,Region 2,City Y,2018,70068.19
-Country B,Region 2,City X,2020,96917.36
-Country B,Region 2,City Y,2021,91323.6
-Country C,Region 3,City Z,2018,43475.71
-Country B,Region 2,City Z,2019,74035.69
-Country C,Region 2,City Y,2019,48054.18
-Country B,Region 2,City X,2021,24681.01
-Country C,Region 2,City X,2022,57355.48
-Country B,Region 2,City Y,2022,19082.17
-Country A,Region 2,City Y,2022,70777.81
-Country C,Region 2,City Z,2018,41299.57
-Country C,Region 2,City Z,2021,90295.99
-Country A,Region 1,City X,2021,67741.23
-Country A,Region 3,City X,2018,28967.88
-Country A,Region 2,City Y,2021,82056.89
-Country B,Region 2,City Z,2018,13864.11
-Country A,Region 3,City Z,2019,83475.35
-Country B,Region 1,City X,2022,23372.89
-Country B,Region 3,City X,2022,63360.1
-Country C,Region 2,City Y,2020,60800.19
-Country A,Region 3,City Y,2018,11054.04
-Country C,Region 2,City Y,2018,81918.2
-Country B,Region 2,City Y,2019,65483.46
-Country A,Region 2,City X,2021,33477.38
-Country A,Region 3,City Z,2019,12430.44
-Country C,Region 3,City X,2022,89330.44
-Country B,Region 2,City X,2018,49165.39
-Country B,Region 2,City Z,2019,69754.34
-Country A,Region 2,City X,2021,54935.85
-Country C,Region 1,City Y,2021,40888.3
-Country B,Region 2,City X,2019,19555.82
-Country C,Region 2,City X,2020,82712.49
-Country C,Region 2,City Y,2020,47688.92
-Country C,Region 2,City Y,2021,68463.01
-Country C,Region 1,City X,2018,45275.44
-Country B,Region 1,City Z,2018,98953.34
-Country B,Region 2,City X,2022,65397.93
-Country C,Region 3,City Y,2022,29062.08
-Country B,Region 2,City Y,2022,66352.78
-Country A,Region 3,City X,2018,14499.01
-Country A,Region 3,City Z,2018,68526.85
+Country,Region,City,Amount,Date
+Country A,Region 3,City Y,69432.87,2019-03-07 23:38:46
+Country C,Region 3,City Z,15323.74,2019-09-04 13:36:47
+Country C,Region 1,City X,38267.86,2019-02-03 12:46:05
+Country B,Region 1,City Y,51836.1,2022-11-12 20:01:34
+Country C,Region 1,City X,93462.49,2018-05-23 15:53:16
+Country B,Region 2,City Z,37487.05,2022-05-25 08:27:50
+Country B,Region 3,City X,26844.74,2021-05-03 15:11:08
+Country A,Region 1,City Y,90612.21,2021-05-29 04:48:12
+Country C,Region 1,City Y,19438.46,2019-05-06 05:56:33
+Country C,Region 3,City Z,45291.52,2020-03-29 21:08:07
+Country C,Region 1,City Y,57793.86,2020-01-17 07:29:25
+Country A,Region 2,City Z,76689.35,2019-08-01 05:07:08
+Country B,Region 1,City X,58870.92,2021-01-02 09:08:14
+Country A,Region 2,City Z,69633.76,2019-10-21 02:45:17
+Country C,Region 3,City Y,39166.59,2022-09-13 04:20:47
+Country C,Region 2,City Y,93528.16,2019-10-15 15:09:17
+Country A,Region 3,City X,31557.31,2021-06-30 15:09:40
+Country B,Region 3,City Y,65356.04,2020-02-19 14:12:56
+Country A,Region 2,City Z,55161.76,2021-08-04 15:19:24
+Country C,Region 2,City X,40355.67,2020-10-08 19:48:13
+Country C,Region 1,City X,68522.18,2019-10-02 06:20:32
+Country C,Region 3,City Y,10236.1,2019-06-02 02:01:37
+Country C,Region 3,City Z,14185.59,2020-10-24 17:01:34
+Country B,Region 1,City X,54053.68,2022-08-28 22:08:29
+Country B,Region 2,City X,37545.07,2018-11-25 15:39:00
+Country A,Region 1,City Z,61476.77,2021-08-23 15:08:47
+Country C,Region 3,City Y,67646.05,2019-09-30 11:40:54
+Country A,Region 2,City X,86686.06,2018-01-09 10:19:18
+Country C,Region 2,City Z,67120.87,2022-08-13 02:36:16
+Country C,Region 1,City Y,59909.38,2019-10-12 14:38:57
+Country A,Region 3,City X,58092.83,2018-04-05 11:06:22
+Country C,Region 3,City Y,90737.05,2019-10-16 20:19:50
+Country C,Region 3,City Y,28395.63,2018-06-14 13:55:06
+Country C,Region 2,City Z,36106.57,2019-05-23 06:13:17
+Country B,Region 3,City Z,84424.35,2022-06-06 23:49:27
+Country A,Region 1,City Y,41890.34,2020-06-17 11:46:16
+Country B,Region 3,City Y,56200.05,2020-07-20 22:44:30
+Country C,Region 2,City X,68567.34,2022-09-20 06:49:11
+Country A,Region 2,City X,85390.81,2021-05-06 13:24:12
+Country A,Region 1,City Z,21693.39,2022-12-16 08:25:34
+Country B,Region 3,City X,22107.76,2018-05-20 03:13:18
+Country C,Region 3,City Z,52505.03,2021-02-18 08:33:25
+Country A,Region 1,City X,16865.01,2020-02-15 07:23:39
+Country C,Region 3,City Z,65393.2,2022-10-30 05:09:31
+Country B,Region 1,City Z,61857.51,2020-05-05 05:01:50
+Country A,Region 3,City Z,76463.36,2022-01-20 09:27:07
+Country C,Region 3,City Y,57521.74,2020-08-24 18:00:13
+Country A,Region 2,City X,93543.37,2022-03-30 18:34:38
+Country A,Region 2,City Z,41908.12,2018-09-15 07:51:33
+Country C,Region 3,City Z,89102.8,2020-01-30 17:42:43
+Country A,Region 2,City Z,16940.66,2019-06-15 03:30:31
+Country B,Region 2,City X,80856.1,2019-03-22 17:02:20
+Country B,Region 1,City X,32060.0,2021-01-31 02:49:18
+Country C,Region 1,City Z,89545.68,2020-05-16 21:32:36
+Country B,Region 2,City X,68928.84,2018-01-25 23:52:10
+Country C,Region 1,City Y,68094.57,2019-08-18 16:19:08
+Country C,Region 1,City Y,85055.7,2020-11-29 02:23:09
+Country C,Region 2,City Z,17857.63,2021-05-18 10:51:31
+Country B,Region 3,City X,10377.42,2021-05-05 12:30:24
+Country C,Region 1,City Y,34855.97,2019-10-06 06:00:00
+Country B,Region 3,City X,52913.02,2019-08-18 17:51:44
+Country C,Region 3,City X,47595.02,2022-01-14 07:45:01
+Country B,Region 2,City X,37450.44,2019-02-23 06:46:34
+Country A,Region 1,City Y,11047.1,2022-05-26 19:20:22
+Country B,Region 1,City Z,47346.47,2022-02-12 03:49:17
+Country B,Region 2,City X,15311.94,2019-03-17 22:57:32
+Country B,Region 3,City X,96374.85,2019-05-18 22:19:35
+Country B,Region 1,City X,81212.8,2019-03-14 10:31:21
+Country A,Region 2,City Y,23955.55,2021-02-27 19:26:23
+Country A,Region 1,City Y,43328.18,2020-07-16 10:47:27
+Country C,Region 3,City Z,14566.01,2021-12-23 13:00:27
+Country B,Region 3,City X,64942.39,2020-02-20 08:49:12
+Country A,Region 1,City X,56563.02,2021-08-02 03:26:43
+Country C,Region 2,City X,77178.1,2021-01-09 08:39:30
+Country A,Region 2,City X,88905.56,2018-07-21 00:30:43
+Country C,Region 1,City Z,70921.1,2018-07-18 05:30:53
+Country B,Region 2,City X,43373.11,2020-05-04 03:49:21
+Country B,Region 2,City X,71862.2,2021-05-14 07:17:16
+Country C,Region 1,City Y,78979.6,2019-11-21 10:50:32
+Country A,Region 3,City Z,90174.53,2020-09-09 22:13:05
+Country C,Region 2,City X,18526.05,2021-08-15 22:41:53
+Country C,Region 1,City X,51271.48,2022-07-08 16:38:25
+Country B,Region 1,City Y,69754.21,2020-09-26 19:39:56
+Country A,Region 3,City Y,39932.67,2018-09-06 02:26:12
+Country A,Region 2,City X,19650.51,2021-10-26 18:36:29
+Country A,Region 2,City Y,52070.98,2020-02-19 09:00:09
+Country B,Region 1,City Z,71555.32,2018-12-14 08:29:33
+Country C,Region 3,City Y,65719.97,2020-08-20 08:54:08
+Country C,Region 1,City Y,67017.73,2018-10-16 03:15:19
+Country A,Region 3,City X,53357.19,2019-05-01 18:49:25
+Country C,Region 3,City Y,17738.12,2020-01-14 09:44:13
+Country C,Region 1,City X,42114.7,2019-06-24 08:13:10
+Country B,Region 1,City Y,48081.68,2019-03-18 08:08:38
+Country C,Region 1,City X,73311.01,2021-06-07 21:06:57
+Country A,Region 2,City X,87756.86,2019-02-19 21:11:38
+Country B,Region 1,City Y,16831.14,2020-10-18 09:19:32
+Country B,Region 1,City Z,30710.55,2021-07-17 13:03:43
+Country B,Region 2,City Z,46748.3,2021-12-08 08:21:13
+Country C,Region 1,City X,56187.45,2022-01-12 00:22:38
+Country A,Region 1,City Y,57163.34,2022-01-01 09:09:33
+Country C,Region 1,City Y,29547.88,2021-10-02 17:15:01
+Country B,Region 3,City Z,13456.46,2022-06-06 00:11:04
+Country B,Region 2,City Y,41510.33,2020-07-04 19:30:36
+Country C,Region 3,City Y,63168.63,2020-04-26 21:37:13
+Country A,Region 1,City Y,35607.3,2018-07-29 04:11:38
+Country C,Region 1,City Y,42534.06,2019-12-27 20:43:36
+Country A,Region 3,City Z,56459.35,2020-01-30 22:03:55
+Country C,Region 2,City Y,97830.37,2019-11-09 17:56:03
+Country B,Region 2,City X,97540.08,2019-02-17 15:25:56
+Country C,Region 3,City Z,21241.78,2022-02-22 13:41:30
+Country C,Region 2,City X,16922.79,2021-07-23 23:58:14
+Country B,Region 1,City Z,30826.02,2019-03-25 02:23:34
+Country B,Region 2,City Y,94854.39,2018-04-11 04:20:05
+Country B,Region 1,City X,84532.33,2019-12-16 04:32:35
+Country A,Region 1,City Z,97507.2,2018-07-17 13:59:20
+Country B,Region 2,City Y,69128.43,2022-02-21 10:21:35
+Country B,Region 2,City Z,76730.17,2022-01-18 18:15:48
+Country A,Region 2,City X,10633.83,2020-11-04 10:03:50
+Country A,Region 1,City Z,97762.28,2019-11-01 04:32:23
+Country A,Region 2,City Z,51864.67,2018-12-28 00:30:00
+Country C,Region 3,City Z,26234.93,2020-07-28 02:40:31
+Country B,Region 1,City Y,56975.1,2021-01-25 21:18:17
+Country C,Region 3,City Z,71453.52,2020-09-13 12:32:30
+Country B,Region 3,City Z,97068.39,2019-09-13 19:42:18
+Country C,Region 2,City Z,73897.12,2020-09-21 03:30:51
+Country A,Region 2,City X,85607.11,2021-04-24 05:00:57
+Country C,Region 3,City Y,78974.65,2021-03-04 21:23:19
+Country B,Region 1,City Y,93880.59,2019-07-28 09:09:48
+Country C,Region 2,City X,54274.14,2020-01-19 19:07:35
+Country C,Region 3,City Z,53585.34,2019-04-30 06:19:36
+Country A,Region 2,City Y,83200.37,2020-09-20 00:52:00
+Country B,Region 2,City X,23585.16,2019-11-12 16:30:54
+Country C,Region 1,City Y,71915.79,2021-08-13 14:40:19
+Country C,Region 1,City Z,53555.74,2020-12-21 05:33:53
+Country A,Region 1,City Y,63947.77,2020-01-10 04:19:48
+Country C,Region 2,City Z,67322.82,2022-07-27 21:05:56
+Country C,Region 2,City X,26990.57,2018-08-04 17:21:33
+Country C,Region 2,City Z,83390.63,2018-09-05 15:42:42
+Country A,Region 3,City Z,42107.64,2020-08-24 13:54:08
+Country C,Region 1,City Z,38393.5,2018-12-14 00:53:17
+Country A,Region 1,City Z,14318.61,2021-09-27 00:01:56
+Country B,Region 3,City Z,16602.26,2022-03-31 15:51:48
+Country C,Region 1,City Y,78271.69,2021-05-12 18:45:23
+Country C,Region 1,City Y,79063.23,2020-11-22 09:13:37
+Country A,Region 1,City Y,40262.19,2018-07-07 14:12:28
+Country A,Region 1,City X,23314.62,2019-12-07 02:39:28
+Country A,Region 3,City X,44632.72,2021-12-30 00:35:55
+Country B,Region 3,City X,70749.22,2018-09-07 19:15:00
+Country B,Region 2,City Z,67290.8,2021-01-12 16:08:46
+Country A,Region 2,City X,13084.2,2022-09-15 02:14:57
+Country B,Region 1,City Y,24833.89,2020-08-24 05:01:11
+Country A,Region 1,City Z,26485.28,2021-09-06 04:21:56
+Country A,Region 1,City Y,23652.97,2022-04-07 00:37:28
+Country B,Region 1,City X,13823.38,2019-05-27 08:15:16
+Country B,Region 1,City Z,53864.06,2022-01-18 17:24:18
+Country C,Region 2,City Y,98420.09,2021-07-31 19:41:36
+Country A,Region 3,City Y,61106.46,2019-02-16 04:36:52
+Country C,Region 1,City Z,56156.67,2022-06-03 12:48:58
+Country C,Region 2,City Y,65442.47,2021-09-12 23:13:50
+Country B,Region 1,City Z,29499.53,2022-12-05 13:51:35
+Country B,Region 1,City Z,78413.68,2019-03-07 08:51:19
+Country A,Region 3,City Z,72501.35,2021-03-22 18:31:46
+Country A,Region 1,City X,31801.53,2021-10-19 18:36:30
+Country B,Region 1,City X,65436.83,2022-07-25 19:06:26
+Country B,Region 2,City X,76112.57,2020-04-08 08:20:54
+Country B,Region 3,City Y,13184.87,2019-12-01 04:48:34
+Country A,Region 3,City Y,88114.75,2018-05-07 10:08:33
+Country C,Region 3,City Y,53208.38,2018-10-25 10:47:01
+Country A,Region 3,City X,99447.58,2020-01-09 19:40:50
+Country A,Region 2,City X,58536.12,2018-05-20 12:47:53
+Country B,Region 2,City X,99894.28,2018-01-31 07:50:20
+Country C,Region 2,City Y,25911.35,2019-01-19 06:32:04
+Country C,Region 3,City X,71885.92,2022-09-01 15:07:38
+Country C,Region 3,City X,11905.77,2019-09-03 00:48:21
+Country C,Region 3,City Y,46312.14,2019-10-01 23:16:45
+Country A,Region 2,City Y,16256.43,2022-03-22 11:59:25
+Country B,Region 2,City Y,82766.43,2022-08-21 20:53:32
+Country B,Region 2,City X,72401.57,2018-11-07 02:46:18
+Country A,Region 1,City Y,96970.82,2019-07-24 15:48:48
+Country B,Region 2,City Z,19768.35,2022-12-07 11:10:26
+Country A,Region 3,City X,50185.92,2022-11-23 10:44:06
+Country B,Region 1,City Y,59105.25,2022-05-30 09:30:12
+Country C,Region 3,City Y,67974.17,2020-03-27 07:58:24
+Country A,Region 1,City Y,86586.13,2021-05-18 19:14:36
+Country A,Region 3,City X,92117.79,2022-03-10 15:42:42
+Country C,Region 1,City Z,36150.16,2022-12-14 12:52:26
+Country C,Region 1,City Z,36975.46,2019-04-24 16:19:43
+Country C,Region 1,City Y,18285.83,2020-02-29 13:15:06
+Country A,Region 2,City Y,80174.31,2018-07-20 18:10:08
+Country B,Region 1,City Z,17263.21,2019-06-26 06:03:35
+Country A,Region 2,City Z,36935.78,2019-12-29 12:01:50
+Country C,Region 3,City X,89516.53,2022-06-24 11:16:04
+Country A,Region 3,City Z,75523.81,2018-06-25 20:28:49
+Country B,Region 1,City Z,40672.17,2020-09-16 10:50:28
+Country C,Region 3,City Y,88258.26,2020-04-27 16:14:53
+Country B,Region 1,City Z,27146.82,2021-12-07 22:35:26
+Country C,Region 3,City Z,49865.99,2021-06-02 02:39:47
+Country B,Region 2,City Z,35779.11,2018-03-14 14:06:51
+Country B,Region 2,City Z,45160.5,2021-11-09 15:53:16
+Country B,Region 3,City X,88585.43,2020-05-30 16:37:16
+Country A,Region 1,City Y,66593.71,2018-12-26 23:52:20
+Country B,Region 3,City Z,45319.73,2019-10-07 09:09:36
+Country C,Region 3,City X,12540.23,2019-03-02 21:42:43
+Country A,Region 3,City Y,26675.27,2021-12-10 06:54:27
+Country B,Region 3,City X,16909.63,2020-06-16 08:51:19
+Country C,Region 3,City Y,78686.85,2018-09-09 19:12:28
+Country A,Region 1,City Z,18562.12,2018-05-01 07:44:13
+Country B,Region 3,City Y,74453.53,2018-03-09 20:48:36
+Country C,Region 1,City X,29660.44,2021-06-22 23:01:03
+Country B,Region 3,City X,24589.46,2019-05-15 21:09:36
+Country B,Region 1,City Z,97015.31,2020-10-10 01:01:55
+Country A,Region 2,City Y,22255.58,2019-01-12 10:08:18
+Country A,Region 2,City Z,35657.12,2018-11-28 16:26:11
+Country C,Region 1,City Y,58430.22,2021-04-23 04:22:52
+Country C,Region 3,City Y,16575.04,2018-09-09 07:58:23
+Country B,Region 3,City Y,35524.91,2019-08-11 10:59:50
+Country B,Region 2,City Y,27178.88,2021-12-27 12:39:22
+Country B,Region 2,City Z,43140.77,2022-04-02 01:32:07
+Country C,Region 2,City Z,83707.57,2022-05-29 04:57:57
+Country B,Region 3,City Y,37487.08,2020-08-23 15:40:36
+Country B,Region 2,City Y,83525.23,2021-09-27 17:22:53
+Country B,Region 1,City Z,19151.57,2020-10-13 17:15:46
+Country B,Region 3,City Z,71808.45,2019-04-18 15:08:27
+Country A,Region 3,City X,54124.17,2021-08-28 05:36:22
+Country B,Region 2,City X,70460.89,2021-04-02 08:06:10
+Country A,Region 3,City X,24127.82,2019-09-18 16:40:44
+Country C,Region 3,City X,84324.09,2022-11-22 00:13:10
+Country C,Region 2,City Z,70755.06,2020-05-26 08:46:48
+Country A,Region 3,City X,65585.7,2020-11-13 19:29:18
+Country C,Region 3,City Y,95714.63,2021-10-12 07:56:23
+Country A,Region 1,City Y,30120.62,2018-10-04 06:27:16
+Country A,Region 3,City Y,75832.95,2019-08-06 15:28:20
+Country C,Region 3,City X,75427.62,2022-02-01 22:16:43
+Country A,Region 1,City Y,68752.21,2018-01-04 00:12:23
+Country A,Region 2,City Y,80380.25,2021-06-21 10:11:11
+Country C,Region 3,City X,10525.68,2021-01-16 19:27:08
+Country B,Region 2,City Z,46029.64,2022-03-20 17:01:33
+Country B,Region 3,City Y,96180.41,2018-03-21 11:47:01
+Country A,Region 2,City Y,58063.25,2022-10-14 09:06:21
+Country A,Region 1,City Y,94631.29,2018-04-15 08:58:15
+Country B,Region 1,City X,81573.16,2021-06-29 18:26:29
+Country B,Region 3,City Z,88323.69,2019-08-14 01:47:07
+Country A,Region 3,City X,49780.31,2018-04-11 14:56:26
+Country A,Region 1,City Z,27420.5,2020-11-04 01:25:19
+Country A,Region 1,City Y,50380.67,2020-04-01 20:10:51
+Country C,Region 1,City Z,88381.17,2021-06-11 23:02:52
+Country B,Region 1,City X,70740.1,2018-02-22 12:46:29
+Country A,Region 2,City Y,41123.78,2021-05-04 00:58:27
+Country A,Region 2,City Z,47982.59,2019-03-13 09:53:13
+Country B,Region 1,City Z,40637.87,2020-04-09 00:50:20
+Country B,Region 2,City Z,60572.3,2020-02-17 23:15:59
+Country C,Region 2,City X,70011.22,2018-09-17 20:43:38
+Country A,Region 3,City X,69947.28,2020-12-26 19:39:13
+Country C,Region 3,City X,20965.25,2019-09-06 16:57:25
+Country B,Region 1,City Z,97899.87,2020-11-13 01:37:32
+Country C,Region 3,City Z,92436.1,2021-02-17 21:07:37
+Country B,Region 2,City Z,67891.88,2018-10-15 05:56:25
+Country C,Region 3,City Y,64889.95,2018-12-29 17:47:48
+Country C,Region 3,City X,57725.23,2020-03-18 03:11:12
+Country B,Region 1,City X,33692.54,2022-04-23 00:15:29
+Country C,Region 2,City X,65735.9,2018-02-17 20:34:27
+Country C,Region 3,City Y,63515.5,2019-09-28 01:04:34
+Country C,Region 1,City X,23115.5,2020-12-06 02:59:32
+Country A,Region 3,City Z,59231.98,2022-06-05 05:45:39
+Country C,Region 2,City Y,66253.19,2021-01-12 21:00:06
+Country A,Region 2,City X,17750.22,2022-09-07 14:47:48
+Country B,Region 1,City Z,25425.45,2021-08-14 23:15:57
+Country A,Region 3,City X,10296.41,2018-01-06 09:48:34
+Country B,Region 1,City Z,53952.57,2018-10-23 20:59:06
+Country A,Region 3,City Y,74202.26,2021-07-10 00:44:41
+Country A,Region 3,City Z,77418.78,2019-12-26 22:38:48
+Country C,Region 3,City Z,46090.88,2021-05-02 10:15:34
+Country C,Region 2,City X,65525.98,2020-03-16 07:38:08
+Country B,Region 2,City X,49461.93,2020-03-02 02:37:16
+Country C,Region 3,City X,35679.14,2022-06-23 17:06:37
+Country B,Region 2,City Z,97387.9,2021-12-07 00:40:37
+Country A,Region 2,City Z,98957.98,2022-06-01 21:18:46
+Country A,Region 3,City Z,29700.59,2019-09-19 06:01:51
+Country C,Region 2,City Z,52485.28,2021-04-01 21:11:03
+Country C,Region 1,City Y,32427.32,2018-10-30 04:04:48
+Country C,Region 2,City X,36506.7,2018-10-10 22:02:33
+Country A,Region 2,City Y,92186.84,2020-10-26 23:38:33
+Country A,Region 3,City X,43143.33,2018-09-28 16:28:00
+Country C,Region 3,City Z,12124.57,2018-11-04 09:25:12
+Country B,Region 2,City Z,28324.08,2022-09-21 12:19:15
+Country A,Region 3,City Y,32866.05,2022-07-23 00:43:31
+Country B,Region 2,City Y,98925.71,2021-03-16 14:57:53
+Country A,Region 1,City Y,35235.94,2019-12-11 09:50:32
+Country C,Region 2,City Z,67697.31,2021-10-10 13:12:47
+Country A,Region 1,City Y,30343.8,2020-08-03 23:29:02
+Country B,Region 3,City Z,48560.92,2019-01-14 16:08:35
+Country C,Region 3,City Y,55579.26,2020-09-29 04:36:19
+Country B,Region 1,City Y,82224.65,2021-08-09 15:49:58
+Country B,Region 1,City X,20511.67,2021-05-31 21:21:15
+Country C,Region 1,City X,57833.5,2019-03-23 18:32:49
+Country B,Region 1,City Y,92202.5,2021-07-21 11:00:14
+Country B,Region 3,City Y,27897.83,2020-01-14 19:34:03
+Country A,Region 2,City X,71174.89,2018-09-23 15:44:09
+Country B,Region 3,City Z,36622.33,2019-08-07 17:36:28
+Country B,Region 2,City X,88495.9,2021-06-29 01:18:39
+Country B,Region 1,City Y,43646.46,2019-03-19 17:19:13
+Country B,Region 2,City X,49667.94,2019-05-12 17:06:30
+Country B,Region 2,City Y,63587.62,2019-02-17 14:22:18
+Country B,Region 3,City Y,84537.01,2019-11-24 00:21:54
+Country B,Region 1,City Z,74897.15,2021-02-26 06:14:19
+Country A,Region 3,City Y,64160.34,2021-04-05 17:51:23
+Country B,Region 3,City X,95745.17,2022-04-08 11:56:43
+Country B,Region 3,City Y,44761.07,2019-04-13 13:33:14
+Country C,Region 2,City X,41527.77,2019-04-22 23:03:32
+Country B,Region 2,City Z,40351.75,2022-06-29 01:31:19
+Country B,Region 3,City Z,63860.61,2020-05-12 11:33:53
+Country B,Region 1,City X,44898.98,2021-05-10 06:19:35
+Country B,Region 3,City X,76759.21,2020-07-31 12:59:19
+Country B,Region 1,City Y,83994.17,2022-06-13 09:24:27
+Country C,Region 3,City X,26574.82,2021-02-11 09:55:27
+Country A,Region 3,City Y,40463.36,2020-03-08 22:30:56
+Country A,Region 2,City X,62364.82,2021-08-26 23:17:09
+Country A,Region 1,City Z,37141.09,2018-04-01 04:24:57
+Country C,Region 2,City X,19770.88,2018-05-09 17:47:29
+Country A,Region 2,City Y,27037.21,2022-10-17 13:24:22
+Country A,Region 3,City X,83809.67,2020-04-28 19:12:59
+Country A,Region 1,City Z,37261.45,2019-10-18 16:58:31
+Country B,Region 2,City Z,63333.58,2019-01-27 00:45:57
+Country B,Region 1,City Y,30983.14,2019-05-31 17:32:19
+Country C,Region 1,City Y,29884.59,2018-12-17 14:59:44
+Country B,Region 2,City X,82387.67,2020-03-07 10:12:30
+Country C,Region 2,City X,52674.42,2019-07-27 18:16:02
+Country C,Region 1,City Y,45506.99,2020-08-17 23:57:09
+Country B,Region 1,City Z,77975.3,2022-02-15 16:34:43
+Country C,Region 3,City Y,98358.46,2022-11-18 23:47:23
+Country C,Region 1,City Y,86606.23,2020-08-16 15:14:06
+Country B,Region 3,City X,52702.06,2018-12-26 20:31:24
+Country A,Region 1,City X,78559.16,2022-12-28 21:53:05
+Country C,Region 3,City X,87350.65,2019-12-17 07:12:11
+Country A,Region 3,City X,18582.91,2022-06-24 07:25:47
+Country A,Region 1,City X,53018.35,2020-08-28 21:01:29
+Country C,Region 1,City Z,34256.53,2019-01-09 20:02:55
+Country A,Region 1,City X,85082.82,2020-06-17 13:46:41
+Country C,Region 3,City Y,50413.42,2019-11-14 21:29:23
+Country A,Region 3,City Y,90415.08,2021-09-06 07:51:45
+Country B,Region 2,City X,29555.74,2021-03-24 16:18:25
+Country A,Region 1,City Y,67675.73,2020-10-01 21:57:48
+Country B,Region 3,City Z,43933.85,2020-12-01 00:12:39
+Country B,Region 1,City Y,28575.9,2019-08-14 14:15:23
+Country A,Region 2,City Y,33176.84,2019-01-04 04:53:15
+Country B,Region 1,City Z,37740.17,2021-06-23 17:55:54
+Country B,Region 1,City X,66371.65,2019-12-21 08:05:38
+Country C,Region 3,City Z,63873.79,2022-02-01 10:40:26
+Country B,Region 1,City Y,65925.51,2020-09-30 10:40:41
+Country C,Region 1,City Z,35769.52,2018-12-28 05:45:14
+Country A,Region 3,City X,83332.44,2021-02-05 08:21:48
+Country A,Region 3,City Y,41229.61,2020-04-20 07:03:40
+Country B,Region 1,City X,61835.21,2018-09-09 12:34:07
+Country A,Region 3,City Z,33415.49,2019-01-12 20:49:09
+Country A,Region 2,City Z,61020.68,2018-03-11 06:20:33
+Country B,Region 2,City X,22240.03,2020-12-06 05:15:45
+Country C,Region 3,City Z,50207.73,2019-01-14 07:36:10
+Country A,Region 3,City Y,22709.73,2022-05-03 22:54:57
+Country C,Region 1,City X,88447.63,2021-07-26 18:16:35
+Country A,Region 2,City Y,19766.27,2019-04-05 22:11:16
+Country B,Region 2,City Y,27684.19,2022-10-10 12:46:37
+Country C,Region 1,City X,74377.84,2018-01-19 22:46:25
+Country B,Region 2,City Z,19093.31,2022-05-13 15:08:26
+Country B,Region 1,City Z,27373.29,2019-06-11 11:03:14
+Country A,Region 1,City Z,53263.29,2022-06-16 01:24:48
+Country A,Region 3,City X,38264.34,2022-09-08 20:46:06
+Country B,Region 1,City X,46720.53,2018-01-26 05:01:13
+Country C,Region 2,City X,32400.73,2020-07-11 09:37:09
+Country C,Region 1,City X,39411.51,2018-12-28 18:47:36
+Country B,Region 1,City X,45364.43,2022-01-21 12:13:36
+Country A,Region 1,City Z,20981.93,2019-12-24 21:44:56
+Country B,Region 2,City Z,36566.57,2019-05-25 04:17:03
+Country A,Region 3,City Z,84675.35,2022-03-24 01:07:28
+Country C,Region 3,City Y,31207.74,2019-01-25 18:37:56
+Country A,Region 3,City X,37591.57,2018-11-25 08:12:38
+Country B,Region 3,City Y,73029.08,2021-01-20 16:35:16
+Country C,Region 2,City X,88908.97,2018-02-09 06:29:50
+Country B,Region 1,City X,25858.63,2019-01-29 08:21:05
+Country A,Region 2,City X,50390.23,2020-08-10 03:03:50
+Country B,Region 1,City X,14931.42,2019-07-09 21:27:48
+Country C,Region 1,City X,87768.68,2020-01-10 09:25:33
+Country B,Region 1,City Z,81950.82,2019-12-26 22:03:45
+Country C,Region 3,City Z,55582.29,2022-08-13 18:19:44
+Country C,Region 3,City Y,40566.7,2020-04-29 12:23:46
+Country A,Region 3,City X,81455.69,2021-01-26 17:23:29
+Country C,Region 3,City Y,96035.14,2018-08-14 10:34:47
+Country C,Region 2,City Z,73135.24,2018-12-17 02:39:21
+Country B,Region 1,City X,68628.64,2020-01-22 10:57:04
+Country C,Region 1,City Z,11154.76,2018-08-16 05:45:42
+Country B,Region 1,City Z,12983.66,2020-01-05 14:08:47
+Country A,Region 2,City Z,30236.82,2020-12-07 14:51:05
+Country B,Region 2,City X,99187.71,2021-08-21 10:31:51
+Country C,Region 3,City Y,90690.08,2022-04-01 18:45:47
+Country C,Region 2,City Z,96760.5,2021-11-07 00:06:11
+Country B,Region 1,City Z,95395.81,2019-09-28 06:54:33
+Country C,Region 3,City Y,89650.21,2020-02-16 16:21:48
+Country C,Region 3,City Z,74492.69,2021-08-25 02:46:05
+Country A,Region 2,City Y,40447.73,2018-05-05 15:11:26
+Country A,Region 3,City Z,47871.9,2020-06-28 13:51:40
+Country B,Region 1,City Y,12523.57,2020-10-03 23:16:14
+Country B,Region 1,City Z,61118.01,2020-04-30 22:59:13
+Country C,Region 1,City X,87955.64,2019-05-10 13:49:52
+Country B,Region 1,City Y,50469.67,2021-05-24 05:36:06
+Country A,Region 3,City Y,73558.02,2018-07-27 23:01:01
+Country A,Region 3,City X,33214.68,2021-06-02 20:59:05
+Country B,Region 1,City Z,18543.98,2019-09-05 22:34:03
+Country A,Region 3,City Y,77101.64,2022-12-18 19:11:56
+Country B,Region 1,City Z,57428.81,2021-10-21 21:04:22
+Country C,Region 1,City X,19247.89,2021-03-09 08:37:02
+Country C,Region 1,City Y,54189.91,2018-12-08 14:29:32
+Country C,Region 1,City Z,82554.7,2019-07-14 19:00:33
+Country C,Region 1,City Y,90745.86,2019-11-02 09:14:54
+Country A,Region 3,City X,90066.1,2020-09-28 07:23:08
+Country C,Region 1,City Y,99942.04,2022-10-07 22:53:09
+Country A,Region 1,City X,17909.86,2022-11-09 15:00:16
+Country B,Region 3,City Y,43742.42,2020-11-03 07:34:37
+Country C,Region 3,City X,95104.75,2022-01-06 06:02:28
+Country A,Region 2,City X,65596.98,2021-06-10 14:29:34
+Country C,Region 3,City Z,67781.7,2020-01-15 23:55:54
+Country A,Region 3,City X,67660.63,2020-12-30 03:05:21
+Country C,Region 1,City Z,15457.19,2019-03-17 01:51:18
+Country C,Region 2,City Z,35746.94,2019-02-24 07:10:15
+Country B,Region 3,City Z,23486.68,2021-07-13 10:29:41
+Country B,Region 3,City Y,93152.36,2021-12-16 15:09:11
+Country A,Region 1,City Y,73233.35,2022-08-11 08:32:18
+Country A,Region 3,City Y,80590.61,2021-10-29 11:45:38
+Country A,Region 2,City Y,37021.96,2020-07-14 11:59:25
+Country C,Region 1,City Z,23774.26,2019-08-03 05:52:08
+Country C,Region 1,City Z,75156.4,2019-07-22 08:44:32
+Country B,Region 1,City X,36093.05,2019-04-18 03:13:15
+Country A,Region 1,City Y,67660.47,2018-05-11 11:24:58
+Country B,Region 1,City X,58771.09,2019-04-03 00:16:16
+Country A,Region 1,City Y,21001.79,2022-02-12 21:19:53
+Country C,Region 3,City X,36388.79,2018-03-22 01:39:08
+Country B,Region 2,City Z,19661.95,2018-01-19 18:49:13
+Country B,Region 2,City X,35251.93,2022-10-19 05:29:01
+Country B,Region 3,City X,13559.88,2021-09-13 04:46:21
+Country A,Region 2,City X,34407.93,2021-11-25 04:18:56
+Country C,Region 2,City Z,43942.34,2020-04-25 17:00:11
+Country A,Region 1,City Y,96093.18,2018-02-15 23:33:55
+Country A,Region 2,City Z,96527.12,2018-03-17 14:50:00
+Country B,Region 1,City Z,93859.41,2021-02-14 06:53:37
+Country C,Region 3,City Z,73362.51,2019-03-24 09:03:21
+Country C,Region 2,City Z,40517.33,2020-10-31 09:44:14
+Country B,Region 2,City Z,63222.62,2022-04-10 00:16:50
+Country A,Region 3,City X,68056.34,2019-09-17 01:14:26
+Country A,Region 2,City Z,41709.88,2022-06-09 21:01:09
+Country B,Region 3,City Z,59694.66,2018-03-12 16:07:23
+Country B,Region 3,City Z,22956.33,2021-11-26 05:12:52
+Country C,Region 2,City X,19310.17,2021-03-20 14:07:29
+Country B,Region 1,City Z,81746.75,2018-01-19 03:34:45
+Country A,Region 1,City X,49982.72,2019-08-12 23:08:48
+Country B,Region 2,City Y,56736.15,2021-06-10 21:15:34
+Country A,Region 2,City X,78354.87,2020-06-15 11:35:03
+Country A,Region 1,City X,95240.57,2021-05-04 16:35:55
+Country B,Region 3,City X,94571.49,2019-05-18 07:20:40
+Country B,Region 1,City Z,25676.7,2019-10-25 18:06:52
+Country C,Region 1,City X,19958.2,2019-02-05 18:55:59
+Country B,Region 3,City Y,12876.3,2019-01-18 11:51:29
+Country C,Region 3,City Z,64237.38,2021-01-26 16:24:27
+Country B,Region 3,City Y,48740.7,2019-11-09 18:53:55
+Country C,Region 2,City X,89958.21,2021-02-08 03:43:46
+Country A,Region 2,City Y,37837.89,2020-10-22 10:20:45
+Country C,Region 3,City Y,49359.48,2018-08-01 22:38:08
+Country B,Region 3,City Y,29954.83,2022-05-19 05:53:49
+Country C,Region 2,City Y,40723.48,2019-09-19 04:16:07
+Country A,Region 2,City Z,32794.34,2020-10-22 07:29:48
+Country C,Region 2,City X,83893.44,2020-06-07 15:06:54
+Country C,Region 3,City X,20486.42,2019-12-18 02:53:17
+Country A,Region 1,City X,69646.11,2022-04-02 16:16:57
+Country B,Region 1,City X,20763.48,2021-10-01 18:50:42
+Country B,Region 2,City X,33788.46,2019-12-11 17:07:27
+Country B,Region 3,City X,57550.94,2019-01-17 03:32:46
+Country A,Region 2,City Z,67245.29,2019-07-03 01:35:20
+Country A,Region 1,City Z,69775.61,2020-05-07 11:54:01
+Country C,Region 2,City Z,67113.02,2019-03-29 08:55:31
+Country C,Region 3,City Y,11285.71,2022-04-12 13:08:32
+Country A,Region 3,City Y,44883.05,2019-11-22 20:09:28
+Country B,Region 3,City Z,48309.88,2018-09-08 20:35:56
+Country A,Region 2,City X,19818.87,2022-11-17 16:20:49
+Country C,Region 2,City X,69409.47,2021-11-05 21:55:21
+Country C,Region 3,City X,68230.52,2020-11-24 12:18:12
+Country C,Region 2,City Y,90263.96,2021-12-11 03:13:52
+Country B,Region 2,City Z,35348.62,2018-06-08 07:28:14
+Country A,Region 1,City Y,52030.62,2018-11-14 10:20:58
+Country B,Region 1,City Y,52652.13,2020-01-08 05:12:42
+Country B,Region 1,City Y,59861.89,2021-07-18 21:33:57
+Country B,Region 1,City X,17959.26,2018-11-21 00:50:58
+Country A,Region 3,City Y,92247.01,2018-03-07 23:41:36
+Country B,Region 1,City Z,64729.51,2022-11-19 07:17:52
+Country B,Region 1,City Y,75193.72,2021-02-25 19:34:48
+Country B,Region 1,City X,74449.82,2022-10-05 23:05:15
+Country C,Region 2,City X,64813.34,2019-12-12 04:32:46
+Country B,Region 2,City X,83414.82,2020-10-05 23:33:01
+Country B,Region 3,City X,65803.43,2019-12-09 18:39:14
+Country C,Region 1,City X,52497.06,2018-08-24 06:34:53
+Country A,Region 3,City Z,54884.84,2021-08-11 05:49:17
+Country B,Region 3,City Z,91315.71,2022-12-24 20:26:05
+Country C,Region 1,City Z,11518.16,2022-05-02 18:25:01
+Country C,Region 1,City Y,41962.76,2019-02-23 10:22:50
+Country B,Region 2,City Z,89414.97,2022-01-20 20:53:54
+Country C,Region 1,City Y,83192.07,2019-10-12 08:18:15
+Country B,Region 1,City X,77570.09,2022-07-22 14:38:16
+Country A,Region 3,City X,56692.97,2021-05-07 15:22:31
+Country A,Region 2,City Z,10830.33,2018-06-19 11:19:17
+Country B,Region 1,City Y,43745.98,2020-01-25 21:04:57
+Country C,Region 2,City Z,70334.32,2022-02-26 23:12:35
+Country A,Region 1,City Y,50268.98,2022-12-02 21:33:07
+Country C,Region 3,City Y,84640.57,2019-10-13 15:24:53
+Country A,Region 3,City X,86961.03,2021-02-21 11:42:32
+Country B,Region 2,City Z,22975.85,2022-12-20 20:37:08
+Country B,Region 3,City Z,67009.66,2020-07-25 01:48:20
+Country C,Region 3,City Y,64760.74,2018-09-23 00:54:47
+Country B,Region 3,City Y,28440.67,2020-03-24 00:47:49
+Country C,Region 1,City Z,42508.36,2019-01-12 01:36:37
+Country C,Region 1,City X,50641.3,2018-07-09 12:17:25
+Country C,Region 1,City X,75410.06,2019-11-18 11:08:48
+Country A,Region 1,City X,52529.81,2020-08-16 13:11:07
+Country C,Region 1,City X,69345.81,2019-09-19 17:41:53
+Country A,Region 3,City X,78800.25,2022-03-18 16:10:45
+Country B,Region 2,City Y,97466.93,2022-05-07 11:29:18
+Country B,Region 3,City X,40021.02,2021-04-29 14:22:46
+Country B,Region 1,City Y,46296.86,2019-03-25 01:53:26
+Country B,Region 2,City Y,27029.43,2018-03-22 15:26:16
+Country A,Region 3,City Z,80158.97,2022-02-13 06:47:28
+Country C,Region 1,City X,77821.36,2021-06-29 03:43:15
+Country B,Region 1,City Y,81328.47,2020-05-06 22:01:23
+Country C,Region 1,City Y,74151.18,2019-10-19 08:12:25
+Country A,Region 1,City X,63843.51,2022-01-16 00:02:11
+Country B,Region 1,City Z,80300.39,2020-11-02 04:28:16
+Country A,Region 1,City X,10296.25,2021-03-23 22:07:48
+Country C,Region 1,City Z,87893.04,2020-03-08 04:34:49
+Country B,Region 2,City Z,59278.56,2019-11-09 10:33:47
+Country A,Region 2,City Z,69520.66,2021-07-19 00:05:27
+Country C,Region 3,City Z,90977.67,2018-12-29 01:54:34
+Country B,Region 2,City Y,27180.53,2018-12-25 21:11:47
+Country C,Region 1,City Y,47673.4,2018-05-13 19:47:03
+Country B,Region 3,City Y,16985.43,2020-02-25 04:47:32
+Country B,Region 3,City X,78492.49,2019-12-01 13:36:37
+Country A,Region 2,City Y,99188.65,2020-12-29 17:27:35
+Country A,Region 3,City X,71188.98,2018-12-06 02:31:25
+Country C,Region 2,City Z,57102.36,2019-08-23 06:07:05
+Country A,Region 3,City X,67181.44,2018-09-17 01:42:49
+Country C,Region 3,City X,25620.72,2019-10-02 04:14:42
+Country A,Region 2,City Y,50071.01,2021-02-17 04:15:12
+Country B,Region 3,City Z,72476.33,2021-02-22 02:26:26
+Country B,Region 3,City Z,25032.2,2022-09-07 12:21:44
+Country B,Region 1,City X,83758.93,2018-03-02 15:51:01
+Country A,Region 1,City Z,26343.18,2021-03-23 16:40:00
+Country A,Region 1,City Y,27869.69,2018-02-10 21:48:05
+Country B,Region 1,City X,55781.47,2022-03-04 00:03:36
+Country A,Region 2,City Y,36158.71,2021-01-28 16:56:09
+Country C,Region 2,City Z,12537.61,2019-02-16 18:52:47
+Country B,Region 2,City X,59517.3,2019-01-04 12:04:34
+Country A,Region 2,City Z,16178.25,2022-08-09 23:45:28
+Country B,Region 2,City Z,28318.18,2022-07-21 14:22:31
+Country B,Region 2,City X,31650.88,2020-04-01 21:42:11
+Country C,Region 2,City X,54134.02,2020-12-10 11:06:44
+Country B,Region 1,City Z,45549.61,2019-05-16 14:45:28
+Country C,Region 2,City X,87955.46,2021-01-10 21:58:46
+Country B,Region 1,City X,52240.73,2022-06-13 06:24:51
+Country C,Region 1,City Z,95247.04,2019-01-31 20:10:58
+Country C,Region 1,City Z,99242.54,2019-11-26 11:26:30
+Country A,Region 2,City Z,79109.34,2019-04-14 11:47:31
+Country B,Region 2,City X,26684.93,2019-01-31 05:11:06
+Country C,Region 2,City Z,20610.63,2022-06-22 10:43:36
+Country A,Region 2,City X,85254.7,2022-11-15 22:08:45
+Country B,Region 3,City Y,71480.68,2019-08-22 11:56:21
+Country B,Region 3,City X,11462.67,2018-05-21 13:14:30
+Country A,Region 1,City X,75678.38,2022-10-21 22:50:09
+Country B,Region 1,City Y,28721.84,2019-08-01 18:18:08
+Country C,Region 2,City Z,58178.86,2018-05-26 01:03:56
+Country A,Region 3,City Y,18929.29,2022-01-27 01:26:09
+Country B,Region 3,City Z,64843.75,2021-02-11 06:02:16
+Country B,Region 3,City Z,63861.78,2021-03-01 05:19:39
+Country C,Region 3,City Y,49455.08,2018-12-13 15:23:41
+Country B,Region 1,City X,48738.84,2019-09-24 02:12:00
+Country C,Region 1,City Y,56637.24,2019-04-13 10:40:26
+Country C,Region 3,City X,19770.87,2019-05-15 09:54:17
+Country B,Region 1,City Z,65134.14,2018-08-07 20:56:39
+Country C,Region 2,City X,58359.51,2018-06-23 05:47:19
+Country B,Region 2,City Z,96715.3,2022-11-01 04:02:15
+Country B,Region 1,City Y,38113.47,2021-11-07 22:18:27
+Country B,Region 1,City Z,98046.33,2022-08-16 19:47:17
+Country B,Region 2,City X,58698.91,2022-11-29 20:27:20
+Country C,Region 3,City Y,51163.35,2019-05-23 15:51:04
+Country A,Region 1,City X,90535.86,2018-10-10 12:10:17
+Country A,Region 1,City Z,26452.96,2018-11-08 05:51:51
+Country A,Region 3,City Z,70100.3,2018-03-28 12:20:13
+Country C,Region 1,City X,79005.66,2018-07-10 19:49:23
+Country C,Region 3,City Y,56089.14,2018-10-27 03:35:16
+Country B,Region 1,City Z,88308.89,2021-08-22 02:36:08
+Country A,Region 2,City X,48560.75,2019-10-02 03:35:19
+Country C,Region 1,City Y,11795.23,2019-12-12 16:59:36
+Country C,Region 3,City X,25334.3,2019-04-11 23:25:23
+Country B,Region 2,City Z,31237.2,2019-05-27 14:51:00
+Country C,Region 1,City X,86507.79,2018-02-22 05:45:01
+Country A,Region 3,City X,58504.27,2020-01-02 18:52:47
+Country C,Region 1,City Y,15978.86,2018-09-06 10:11:11
+Country B,Region 2,City Z,61541.16,2019-02-17 16:36:25
+Country B,Region 2,City Y,22454.04,2020-11-28 21:17:31
+Country B,Region 1,City Z,51216.63,2019-07-27 00:33:01
+Country A,Region 2,City Y,81627.56,2021-03-14 13:10:18
+Country B,Region 1,City Y,64486.61,2019-11-25 21:43:25
+Country C,Region 3,City X,74101.48,2021-09-22 05:34:52
+Country B,Region 3,City Z,55345.57,2020-06-13 10:18:00
+Country B,Region 1,City X,71790.7,2021-03-30 09:22:50
+Country A,Region 2,City X,83394.13,2020-05-22 09:55:40
+Country C,Region 2,City Z,55296.15,2020-01-29 08:52:19
+Country B,Region 2,City Z,66760.21,2021-05-13 08:27:10
+Country B,Region 3,City Y,48373.65,2018-06-17 02:42:46
+Country A,Region 2,City Y,61663.9,2020-01-17 18:27:39
+Country B,Region 2,City Z,42470.52,2019-11-26 02:57:23
+Country B,Region 1,City Z,16335.03,2021-01-02 03:31:16
+Country B,Region 2,City Z,59940.77,2019-09-20 15:07:18
+Country A,Region 1,City X,54908.66,2018-11-05 22:52:01
+Country C,Region 2,City X,88093.47,2020-04-07 21:21:36
+Country A,Region 2,City Y,84357.81,2022-03-13 11:54:23
+Country A,Region 1,City Y,75280.38,2018-10-22 19:54:48
+Country A,Region 1,City Z,11046.02,2020-10-23 12:31:58
+Country A,Region 2,City X,51233.75,2019-04-06 07:27:32
+Country C,Region 2,City X,59996.9,2021-01-31 04:27:59
+Country B,Region 1,City X,92649.28,2022-04-12 09:59:16
+Country B,Region 2,City Z,99467.33,2021-08-05 06:23:15
+Country C,Region 1,City X,89619.03,2022-04-28 16:50:44
+Country A,Region 1,City X,84766.93,2019-07-23 09:34:31
+Country B,Region 2,City Y,79728.74,2019-12-06 03:45:54
+Country B,Region 2,City X,17010.08,2021-07-21 11:14:10
+Country B,Region 3,City Y,91772.66,2020-07-26 11:01:51
+Country C,Region 3,City Y,37592.0,2020-04-05 09:12:04
+Country A,Region 2,City Y,43058.44,2019-06-15 07:15:07
+Country B,Region 2,City Z,59042.8,2019-05-29 16:07:38
+Country B,Region 3,City X,45435.94,2021-08-14 22:20:36
+Country A,Region 2,City Z,10146.01,2018-04-12 23:16:58
+Country A,Region 1,City Y,79463.08,2020-12-01 08:13:16
+Country C,Region 1,City X,84773.36,2022-06-14 22:05:47
+Country A,Region 1,City Z,66592.31,2018-04-24 07:52:25
+Country A,Region 1,City Y,68565.33,2020-12-14 20:23:53
+Country A,Region 3,City X,60554.64,2021-08-13 02:33:13
+Country B,Region 2,City X,80105.4,2019-01-01 15:17:44
+Country B,Region 1,City Y,88257.77,2022-07-02 03:30:29
+Country B,Region 3,City Z,56443.45,2019-09-09 20:02:25
+Country C,Region 2,City Z,82853.44,2018-06-22 06:35:38
+Country B,Region 3,City Y,61021.99,2018-06-01 00:47:20
+Country C,Region 1,City X,70621.7,2018-05-17 11:57:03
+Country B,Region 2,City Y,57944.94,2022-07-18 03:37:58
+Country C,Region 1,City Z,95728.2,2022-09-11 21:32:20
+Country A,Region 3,City Z,12874.87,2022-09-06 10:28:53
+Country A,Region 3,City Z,46398.4,2022-01-09 11:35:09
+Country C,Region 1,City X,50407.52,2020-10-24 17:17:21
+Country A,Region 3,City X,12406.35,2019-04-14 02:35:44
+Country C,Region 3,City X,12286.74,2021-05-07 07:45:37
+Country A,Region 2,City X,34561.7,2018-03-16 10:48:20
+Country C,Region 1,City Y,63956.86,2021-01-04 20:27:25
+Country A,Region 3,City X,89802.42,2022-10-06 01:19:42
+Country B,Region 2,City Z,15238.19,2019-05-10 20:43:49
+Country B,Region 3,City X,41579.8,2022-09-28 22:54:34
+Country C,Region 2,City Y,99634.85,2020-04-14 17:27:07
+Country A,Region 1,City Z,14167.71,2020-05-21 21:58:47
+Country B,Region 3,City X,11744.7,2021-10-05 01:28:51
+Country B,Region 2,City X,90818.2,2021-08-07 02:04:40
+Country C,Region 2,City Y,92595.69,2021-09-21 06:35:16
+Country B,Region 2,City Y,37330.38,2019-07-11 10:46:49
+Country C,Region 1,City Z,22353.44,2020-04-04 12:06:56
+Country C,Region 1,City X,79555.39,2020-08-08 04:38:53
+Country A,Region 1,City X,46403.4,2021-06-17 07:42:38
+Country A,Region 1,City Y,54376.18,2018-06-27 14:10:07
+Country B,Region 1,City X,12991.4,2018-12-03 02:24:54
+Country A,Region 1,City Y,27416.74,2022-06-28 22:45:07
+Country C,Region 2,City X,10160.71,2021-07-19 18:44:26
+Country B,Region 3,City X,12240.2,2021-10-28 18:19:42
+Country B,Region 2,City Z,28251.16,2018-06-07 07:32:53
+Country B,Region 1,City Z,71803.19,2019-08-18 23:37:12
+Country A,Region 3,City Z,64438.34,2021-09-08 21:08:59
+Country A,Region 2,City Z,33839.46,2020-06-28 10:22:45
+Country A,Region 3,City Y,37411.78,2018-09-05 06:13:17
+Country B,Region 3,City Y,96480.03,2019-02-21 19:55:02
+Country C,Region 1,City Z,56491.9,2018-09-13 02:24:12
+Country C,Region 2,City X,82681.99,2018-08-21 07:20:05
+Country B,Region 3,City Y,70000.62,2020-07-27 13:55:10
+Country B,Region 3,City Z,97539.04,2018-01-06 17:10:56
+Country B,Region 1,City Y,22918.61,2022-10-08 14:50:21
+Country C,Region 3,City Y,87859.35,2019-04-20 18:43:56
+Country C,Region 3,City Y,47543.7,2018-02-11 04:44:22
+Country C,Region 2,City X,43638.36,2021-07-06 19:36:43
+Country C,Region 1,City X,51740.9,2020-11-11 14:50:54
+Country C,Region 1,City Y,62512.13,2020-06-18 09:22:43
+Country B,Region 2,City Y,56122.43,2022-02-26 12:20:19
+Country A,Region 3,City X,56954.57,2019-08-09 19:27:25
+Country B,Region 3,City Y,74121.86,2022-10-14 19:13:17
+Country B,Region 3,City Z,27103.03,2018-06-18 16:36:20
+Country A,Region 2,City Y,27767.2,2020-03-01 06:30:01
+Country B,Region 3,City Y,85121.73,2022-05-29 13:08:12
+Country C,Region 2,City Z,68171.38,2019-11-14 02:32:55
+Country A,Region 2,City Z,31473.56,2022-03-02 16:40:39
+Country C,Region 2,City X,67796.81,2018-06-21 16:12:49
+Country B,Region 3,City Z,96803.44,2020-09-26 23:16:04
+Country B,Region 1,City X,47770.6,2021-03-29 13:16:31
+Country B,Region 1,City X,56120.68,2018-02-15 12:19:10
+Country C,Region 2,City Z,33430.49,2022-03-20 14:32:46
+Country A,Region 2,City X,96364.04,2018-08-28 18:11:31
+Country B,Region 3,City X,97515.41,2022-01-13 10:38:21
+Country C,Region 3,City Z,88073.91,2019-08-27 22:01:36
+Country C,Region 2,City Y,41108.69,2022-02-20 03:56:16
+Country A,Region 2,City Y,48705.8,2020-04-23 11:26:55
+Country A,Region 3,City X,69990.81,2020-10-02 18:31:08
+Country A,Region 2,City Y,57909.35,2021-04-26 06:56:35
+Country B,Region 2,City Y,69185.39,2020-04-25 16:03:33
+Country A,Region 2,City Y,88222.95,2018-06-29 14:40:41
+Country A,Region 2,City Y,58038.32,2020-10-19 10:45:06
+Country A,Region 2,City Y,64664.53,2020-01-26 20:18:31
+Country A,Region 2,City Z,12323.03,2018-07-19 07:28:10
+Country C,Region 3,City X,36866.61,2021-09-06 07:48:32
+Country C,Region 3,City Y,29658.0,2018-12-26 09:17:22
+Country C,Region 1,City X,82155.33,2021-04-15 11:03:32
+Country C,Region 2,City Z,79915.28,2020-12-14 12:40:00
+Country B,Region 3,City Z,80052.56,2019-03-10 16:16:59
+Country C,Region 2,City X,10228.12,2019-12-23 05:24:14
+Country B,Region 2,City X,85303.03,2018-03-18 11:36:45
+Country B,Region 3,City X,83346.69,2020-02-12 21:00:37
+Country A,Region 3,City X,88306.11,2018-09-22 15:54:08
+Country B,Region 3,City Y,47964.35,2020-01-18 15:37:58
+Country A,Region 3,City Y,15322.02,2020-08-17 07:13:59
+Country C,Region 1,City Y,93524.34,2019-07-23 12:44:02
+Country B,Region 2,City Y,49319.79,2019-09-01 02:02:13
+Country B,Region 2,City X,71792.38,2018-11-10 12:19:20
+Country B,Region 2,City Z,33026.36,2018-09-10 23:45:22
+Country B,Region 2,City Y,67403.03,2022-03-15 22:04:24
+Country C,Region 2,City X,65684.42,2022-05-12 18:30:14
+Country B,Region 1,City X,26411.9,2020-05-01 18:11:09
+Country C,Region 1,City Z,65052.18,2020-06-21 07:35:04
+Country C,Region 2,City X,49134.1,2020-10-09 07:35:11
+Country A,Region 2,City X,11452.68,2022-01-24 03:34:01
+Country A,Region 3,City Z,42280.47,2022-03-30 13:26:22
+Country B,Region 2,City Y,18535.64,2020-06-28 03:07:57
+Country C,Region 1,City X,94500.77,2020-02-15 14:07:34
+Country B,Region 2,City X,35626.46,2020-11-19 18:59:15
+Country A,Region 2,City Z,81122.61,2021-03-22 06:54:21
+Country C,Region 1,City X,22919.31,2020-07-27 07:00:23
+Country B,Region 3,City Z,17929.6,2018-02-27 11:47:34
+Country A,Region 2,City X,96464.85,2019-05-24 08:43:28
+Country A,Region 1,City Y,41265.7,2018-04-16 16:41:12
+Country C,Region 1,City Y,99383.54,2019-12-23 03:24:23
+Country A,Region 3,City Z,66109.38,2020-05-02 05:08:03
+Country A,Region 1,City X,18550.17,2018-02-03 09:45:31
+Country A,Region 1,City Z,33468.7,2020-02-27 01:44:24
+Country C,Region 3,City X,47205.82,2019-08-18 05:42:47
+Country B,Region 2,City Y,32598.67,2022-06-29 09:33:07
+Country B,Region 2,City Y,12976.59,2022-06-15 16:19:55
+Country C,Region 1,City X,51479.45,2018-09-24 12:03:28
+Country B,Region 2,City X,10855.22,2021-05-22 18:28:38
+Country A,Region 3,City Y,92875.65,2020-02-10 04:50:40
+Country C,Region 2,City Z,67430.22,2022-02-15 14:37:10
+Country B,Region 3,City Z,76114.9,2019-01-29 09:44:58
+Country A,Region 3,City X,44288.45,2019-03-30 07:02:41
+Country C,Region 2,City Z,52745.3,2018-12-18 15:02:46
+Country B,Region 1,City Z,41547.39,2019-03-12 06:53:24
+Country C,Region 1,City X,78494.14,2022-03-17 05:36:16
+Country A,Region 1,City X,17569.7,2022-07-06 01:32:30
+Country B,Region 3,City Z,75728.9,2022-10-31 15:19:46
+Country C,Region 3,City X,89261.57,2018-01-06 22:55:24
+Country B,Region 2,City Z,87966.04,2021-12-14 05:37:08
+Country B,Region 2,City Z,18489.46,2019-07-18 01:43:40
+Country A,Region 2,City Y,50385.49,2019-10-12 23:03:10
+Country A,Region 1,City Z,96747.22,2020-06-02 04:55:38
+Country C,Region 1,City Z,74924.09,2020-05-18 01:21:47
+Country C,Region 1,City Z,87029.46,2019-08-09 20:58:11
+Country C,Region 3,City Z,43636.75,2019-09-28 15:38:46
+Country C,Region 1,City X,34662.36,2020-03-04 05:08:55
+Country C,Region 3,City Y,91712.41,2021-11-01 03:40:21
+Country C,Region 1,City Y,76928.09,2020-05-03 22:49:32
+Country C,Region 3,City Z,72424.01,2019-01-24 16:58:23
+Country A,Region 3,City Y,43412.91,2022-01-07 17:52:05
+Country A,Region 1,City Z,77958.37,2019-11-24 17:33:02
+Country A,Region 2,City Y,59284.38,2020-05-03 22:40:52
+Country A,Region 3,City X,37264.37,2022-03-28 22:49:33
+Country B,Region 1,City Z,93459.34,2019-08-14 12:01:06
+Country B,Region 3,City Z,67887.24,2022-08-14 12:11:20
+Country B,Region 3,City Y,23053.29,2020-05-05 12:07:35
+Country B,Region 3,City Y,50850.12,2021-04-29 14:11:23
+Country B,Region 2,City Z,89382.61,2019-05-20 11:38:03
+Country C,Region 2,City Y,79168.72,2019-11-27 07:23:11
+Country C,Region 3,City Z,17748.38,2020-04-05 19:06:56
+Country A,Region 1,City Y,37991.35,2022-02-24 18:56:14
+Country C,Region 2,City X,49318.65,2018-04-07 08:59:29
+Country A,Region 2,City X,66997.44,2018-01-09 01:53:26
+Country B,Region 1,City Y,25241.38,2019-07-24 23:10:01
+Country A,Region 3,City Y,17488.09,2019-01-15 00:03:33
+Country C,Region 1,City Y,64505.08,2018-12-11 12:10:28
+Country A,Region 2,City Z,91898.25,2020-12-20 21:34:22
+Country C,Region 3,City Y,73106.81,2021-10-30 07:12:37
+Country B,Region 3,City Z,20565.59,2021-04-20 17:46:08
+Country B,Region 3,City X,50639.51,2022-08-09 02:12:26
+Country A,Region 2,City Y,20041.5,2021-05-29 21:40:23
+Country A,Region 1,City Z,88942.98,2021-04-04 16:29:05
+Country A,Region 1,City Z,81941.66,2022-07-06 15:20:03
+Country B,Region 2,City Y,43695.56,2022-05-22 09:49:28
+Country B,Region 1,City Z,80757.46,2022-06-01 19:22:03
+Country C,Region 1,City Z,83959.22,2019-04-07 05:26:47
+Country B,Region 2,City X,71997.71,2021-07-28 12:37:29
+Country A,Region 3,City Z,38840.13,2020-11-30 21:04:28
+Country B,Region 1,City Z,18613.73,2019-04-04 18:49:21
+Country A,Region 2,City X,55167.05,2020-07-22 04:54:46
+Country B,Region 3,City Y,69597.26,2018-08-23 07:43:39
+Country C,Region 1,City X,29350.84,2020-09-01 17:41:07
+Country B,Region 1,City X,67189.56,2020-04-14 07:15:18
+Country A,Region 2,City X,55100.14,2018-09-05 14:56:16
+Country B,Region 3,City X,47747.5,2022-09-27 13:50:31
+Country A,Region 2,City X,69533.29,2022-04-17 10:59:47
+Country A,Region 3,City X,55403.21,2019-12-25 08:27:24
+Country A,Region 2,City Z,62173.52,2022-07-08 19:09:36
+Country B,Region 1,City X,80945.91,2018-06-28 00:31:35
+Country B,Region 2,City X,36736.66,2019-01-05 08:42:29
+Country A,Region 1,City X,16880.01,2020-04-18 19:49:20
+Country C,Region 3,City Y,69305.25,2018-09-08 02:29:27
+Country B,Region 1,City X,37426.96,2022-07-09 21:54:26
+Country A,Region 2,City X,71255.76,2020-09-27 10:40:26
+Country B,Region 1,City Z,23574.04,2019-09-09 02:30:38
+Country C,Region 1,City Z,85087.64,2019-06-08 03:00:39
+Country A,Region 1,City Y,49687.03,2020-10-21 21:03:17
+Country B,Region 2,City X,59676.66,2021-03-12 05:55:28
+Country B,Region 3,City X,49251.85,2020-08-04 09:26:18
+Country A,Region 2,City Z,32834.25,2022-01-05 22:21:25
+Country A,Region 1,City X,19151.87,2019-12-23 16:28:54
+Country B,Region 1,City Y,82561.86,2022-12-10 23:20:15
+Country B,Region 2,City Z,96505.3,2022-07-23 20:35:53
+Country B,Region 3,City X,38301.57,2018-10-13 12:50:39
+Country B,Region 3,City X,81918.45,2022-08-29 10:04:24
+Country A,Region 3,City X,17276.43,2021-12-31 02:16:32
+Country C,Region 1,City Y,35562.45,2022-02-03 13:14:55
+Country B,Region 3,City X,44493.28,2021-09-08 01:25:51
+Country A,Region 3,City X,56119.38,2021-10-21 20:20:28
+Country B,Region 1,City Z,54998.5,2018-11-05 08:43:24
+Country C,Region 3,City X,91171.8,2019-04-26 15:33:15
+Country A,Region 1,City Z,95509.89,2020-02-09 14:31:17
+Country A,Region 2,City Z,64503.94,2019-11-03 06:56:27
+Country C,Region 1,City Y,67603.24,2021-11-29 14:01:48
+Country A,Region 1,City X,79609.04,2020-03-31 23:45:18
+Country C,Region 1,City X,48895.77,2021-10-25 15:40:21
+Country A,Region 3,City Y,61179.09,2019-06-15 15:03:58
+Country B,Region 1,City Y,75205.22,2022-06-08 01:45:29
+Country A,Region 3,City Y,76270.57,2019-10-27 01:46:10
+Country C,Region 1,City X,51237.17,2020-03-14 15:28:04
+Country B,Region 1,City Y,77245.9,2019-02-13 15:44:31
+Country C,Region 3,City Y,15347.87,2020-03-12 04:58:38
+Country B,Region 1,City X,49831.56,2019-03-23 07:37:04
+Country C,Region 2,City Z,63229.88,2018-03-24 11:28:35
+Country C,Region 2,City X,17109.73,2021-01-14 14:53:31
+Country C,Region 3,City Y,37740.11,2018-03-29 16:44:12
+Country C,Region 2,City X,22221.15,2022-05-08 10:41:23
+Country B,Region 2,City Z,82388.33,2021-06-12 09:05:02
+Country A,Region 2,City X,71099.52,2020-05-04 08:25:42
+Country A,Region 3,City X,52339.46,2018-10-23 15:10:45
+Country B,Region 3,City Y,85471.51,2022-03-09 08:03:13
+Country C,Region 3,City X,80468.32,2018-11-13 15:01:43
+Country A,Region 3,City Z,19508.38,2020-07-19 14:03:30
+Country C,Region 2,City Y,93781.18,2020-01-18 00:25:11
+Country A,Region 1,City X,80722.9,2019-06-17 05:21:39
+Country C,Region 2,City Y,86990.52,2018-01-05 07:39:38
+Country A,Region 1,City Y,19933.38,2019-12-11 19:50:11
+Country B,Region 3,City X,29970.37,2020-03-02 13:02:29
+Country A,Region 1,City Z,85221.37,2020-10-26 16:30:56
+Country A,Region 1,City Z,24449.53,2021-07-28 16:03:47
+Country B,Region 1,City Y,87702.46,2022-07-08 23:53:59
+Country A,Region 1,City Z,33232.3,2018-09-18 00:06:58
+Country A,Region 1,City Y,43202.72,2019-04-08 17:47:14
+Country A,Region 2,City X,53031.48,2018-12-08 16:51:25
+Country B,Region 1,City X,83161.55,2021-06-12 15:24:10
+Country A,Region 3,City Y,34811.24,2021-06-13 08:27:09
+Country A,Region 3,City Y,93453.37,2022-03-18 18:39:48
+Country C,Region 2,City Z,57438.59,2022-11-04 21:50:12
+Country C,Region 2,City Z,22966.49,2021-10-27 01:57:50
+Country C,Region 1,City X,55870.78,2021-04-12 02:56:49
+Country C,Region 2,City X,88453.89,2021-12-21 07:19:10
+Country A,Region 3,City Y,26782.37,2020-04-11 04:23:31
+Country A,Region 2,City Z,26360.05,2018-09-15 07:52:11
+Country A,Region 1,City Z,52923.52,2018-11-02 09:33:26
+Country A,Region 3,City X,66920.27,2020-03-08 13:19:16
+Country A,Region 3,City X,30186.65,2021-12-22 12:16:30
+Country B,Region 1,City Z,24446.68,2018-11-16 05:49:31
+Country A,Region 3,City Z,48187.62,2019-03-02 02:44:55
+Country A,Region 1,City Z,97170.42,2018-11-01 17:00:15
+Country C,Region 2,City Z,11141.3,2019-06-23 04:29:31
+Country A,Region 1,City Z,83702.64,2021-04-16 07:50:28
+Country A,Region 2,City Y,37184.1,2021-12-18 13:10:52
+Country A,Region 2,City Y,11829.36,2020-08-31 06:27:24
+Country A,Region 2,City X,63241.34,2018-03-20 10:48:18
+Country A,Region 3,City Y,92545.13,2021-03-25 14:59:34
+Country A,Region 1,City X,74390.82,2021-10-13 19:39:01
+Country A,Region 2,City X,68120.32,2022-01-22 23:41:10
+Country B,Region 1,City Z,14392.11,2021-09-10 20:12:32
+Country C,Region 1,City Y,56023.35,2019-02-08 19:40:04
+Country C,Region 3,City X,99262.5,2019-12-08 15:31:04
+Country C,Region 2,City X,63579.8,2020-07-20 16:01:52
+Country C,Region 1,City Y,38406.07,2021-08-05 03:46:48
+Country A,Region 1,City X,42077.79,2019-01-29 06:19:26
+Country A,Region 2,City X,70975.09,2018-09-05 20:35:59
+Country C,Region 3,City Y,46845.25,2022-04-22 16:28:29
+Country C,Region 2,City X,95857.16,2019-11-23 16:23:29
+Country A,Region 3,City Z,61372.35,2019-05-23 13:18:51
+Country A,Region 2,City X,22169.51,2019-10-30 09:27:21
+Country C,Region 3,City X,78587.38,2022-05-15 23:42:49
+Country C,Region 3,City Y,79424.79,2020-08-08 13:01:39
+Country A,Region 1,City X,12793.67,2020-07-21 16:00:29
+Country C,Region 2,City Y,57208.43,2021-01-17 21:31:10
+Country B,Region 1,City Z,48052.62,2018-01-11 09:33:35
+Country C,Region 1,City X,58340.69,2022-12-03 19:40:38
+Country A,Region 1,City X,69463.39,2020-06-19 05:54:01
+Country B,Region 3,City Z,74317.55,2018-07-08 11:36:06
+Country C,Region 2,City Z,22770.51,2018-01-03 03:45:12
+Country A,Region 2,City X,36035.17,2019-01-27 13:33:40
+Country B,Region 2,City X,35012.21,2019-01-09 04:31:33
+Country B,Region 1,City Z,17559.62,2018-10-16 04:34:17
+Country B,Region 2,City Z,91407.53,2021-04-09 06:43:08
+Country A,Region 3,City Z,67943.19,2020-05-01 09:22:43
+Country C,Region 3,City X,87897.91,2020-11-21 19:57:09
+Country C,Region 3,City X,22311.4,2021-04-21 01:36:27
+Country C,Region 2,City Z,99250.75,2019-08-03 02:31:37
+Country B,Region 2,City Y,28796.83,2020-08-01 00:50:53
+Country B,Region 2,City Y,75713.04,2018-08-29 18:42:24
+Country B,Region 3,City X,87163.98,2019-06-30 07:12:42
+Country A,Region 2,City Z,96845.21,2018-09-07 09:55:09
+Country B,Region 2,City Y,38232.6,2018-05-25 19:08:35
+Country C,Region 1,City X,21357.2,2020-05-12 18:37:20
+Country A,Region 3,City Z,72858.78,2020-05-30 06:57:14
+Country B,Region 2,City Z,46254.41,2018-01-10 19:19:05
+Country A,Region 1,City Z,24481.86,2021-08-17 15:37:05
+Country A,Region 2,City Y,50151.99,2022-04-01 09:59:39
+Country B,Region 1,City Z,34852.7,2022-07-11 13:53:28
+Country A,Region 3,City Y,29672.34,2018-06-29 10:05:19
+Country B,Region 2,City Z,63164.93,2018-02-18 04:15:30
+Country C,Region 3,City X,38438.91,2018-06-04 01:43:28
+Country B,Region 1,City Y,57992.33,2021-10-09 06:05:05
+Country B,Region 3,City X,27440.44,2020-04-29 19:44:53
+Country A,Region 3,City Y,43186.13,2021-07-27 18:50:53
+Country C,Region 1,City Y,10848.65,2021-02-03 12:12:57
+Country B,Region 2,City Y,15286.12,2019-12-11 19:55:09
+Country C,Region 1,City X,43676.32,2018-01-07 17:16:46
+Country B,Region 3,City Z,33101.82,2021-05-10 21:43:19
+Country A,Region 2,City X,56874.74,2019-03-15 23:43:44
+Country A,Region 3,City Z,40499.74,2018-03-25 01:03:16
+Country A,Region 1,City Z,83668.51,2020-06-12 07:28:14
+Country A,Region 3,City Y,35141.63,2019-05-05 00:15:44
+Country C,Region 1,City Y,42914.53,2018-04-16 00:10:31
+Country A,Region 1,City Y,78834.12,2022-02-25 03:18:11
+Country C,Region 1,City X,22473.65,2021-01-16 15:14:55
+Country C,Region 1,City Y,66843.43,2018-07-14 14:21:09
+Country A,Region 1,City Y,31668.63,2022-02-08 00:05:04
+Country B,Region 1,City X,10587.59,2019-05-09 05:29:04
+Country C,Region 3,City X,36828.66,2022-10-24 18:05:33
+Country C,Region 2,City Y,11229.33,2019-05-28 02:48:12
+Country A,Region 1,City Z,87253.41,2021-04-08 08:34:16
+Country C,Region 1,City X,27281.97,2019-12-24 23:17:54
+Country B,Region 3,City Z,88090.84,2018-05-28 05:44:19
+Country B,Region 2,City X,60654.43,2021-03-14 04:15:04
+Country C,Region 2,City X,40800.61,2019-10-27 19:21:03
+Country A,Region 1,City Z,30539.76,2022-09-01 07:08:29
+Country A,Region 2,City X,37899.87,2019-07-20 02:27:56
+Country C,Region 1,City X,52814.08,2022-10-18 01:10:09
+Country C,Region 3,City Y,87681.5,2020-08-18 05:16:14
+Country B,Region 2,City X,13933.52,2020-04-24 12:49:09
+Country A,Region 2,City X,93138.44,2020-01-24 03:53:12
+Country B,Region 1,City Z,58029.25,2020-01-07 02:20:40
+Country B,Region 1,City Y,18820.35,2022-11-29 15:23:20
+Country B,Region 3,City X,84941.42,2018-10-14 03:39:09
+Country B,Region 1,City X,35870.94,2022-07-16 02:58:40
+Country C,Region 2,City X,49504.83,2018-09-02 10:03:32
+Country C,Region 3,City X,55244.03,2021-08-15 13:49:18
+Country C,Region 3,City X,99882.54,2018-07-17 07:41:43
+Country C,Region 1,City X,12006.46,2019-04-16 09:16:37
+Country B,Region 1,City Y,79565.97,2018-04-16 14:06:15
+Country B,Region 1,City Y,45777.89,2019-07-10 03:53:22
+Country A,Region 2,City Y,39990.68,2018-05-17 09:02:47
+Country A,Region 3,City Z,53398.02,2018-09-11 23:29:14
+Country C,Region 1,City Z,62139.55,2019-10-06 11:47:10
+Country A,Region 1,City Z,40975.59,2022-07-06 20:32:39
+Country C,Region 1,City X,78986.59,2018-03-14 04:23:27
+Country C,Region 1,City Z,94552.76,2018-09-20 15:41:44
+Country B,Region 2,City Z,45929.03,2021-09-25 16:34:18
+Country B,Region 1,City Z,77481.69,2022-02-07 18:46:42
+Country A,Region 3,City X,21234.19,2019-11-16 15:09:59
+Country C,Region 3,City X,23511.12,2018-04-27 06:07:13
+Country C,Region 3,City Y,82893.25,2018-10-05 03:01:29
+Country A,Region 3,City Y,86825.64,2021-08-09 05:18:21
+Country C,Region 2,City Z,59608.13,2022-04-14 23:53:40
+Country B,Region 2,City Z,70235.03,2018-11-17 07:29:18
+Country A,Region 1,City Y,35509.63,2018-10-25 04:57:13
+Country B,Region 3,City Z,78703.14,2022-12-07 11:37:55
+Country B,Region 1,City Z,76847.97,2021-12-08 12:34:54
+Country A,Region 1,City X,91736.15,2022-11-19 02:14:03
+Country C,Region 3,City X,22660.7,2021-02-11 01:13:39
+Country A,Region 3,City X,57587.36,2019-08-07 22:39:44
+Country C,Region 1,City Z,95756.42,2019-11-12 06:14:34
+Country B,Region 2,City X,89107.18,2018-11-28 13:59:29
+Country B,Region 1,City Y,95201.64,2019-12-11 16:19:57
+Country A,Region 1,City Y,28030.27,2021-11-23 17:08:21
+Country C,Region 1,City Y,15760.05,2021-12-13 21:19:27
+Country C,Region 2,City X,31394.66,2019-06-27 00:05:46
+Country C,Region 3,City Z,55300.48,2021-03-03 16:06:56
+Country C,Region 1,City X,47162.46,2018-04-21 07:16:13
